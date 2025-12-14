@@ -1,0 +1,1155 @@
+{"subject": "Dendroctonus species", "predicate": "are considered to be serious pests of the coniferous forests in North America", "object": ""}
+{"subject": "bark beetles", "predicate": "undergo population eruptions, causing regionwide economic losses", "object": ""}
+{"subject": "coniferous forests", "predicate": "in North America", "object": ""}
+{"subject": "North America", "predicate": "", "object": "coniferous forests"}
+{"subject": "Dendroctonus species", "predicate": "", "object": "bark beetle forest pests"}
+{"subject": "bark beetle forest pests", "predicate": "cause population eruptions, causing regionwide economic losses", "object": "North America"}
+{"subject": "bark beetle epidemics", "predicate": "are limited by biological control methods", "object": ""}
+{"subject": "biological control methods", "predicate": "", "object": "bark beetle epidemics"}
+{"subject": "species", "predicate": "beetle susceptibility varies greatly between", "object": "between"}
+{"subject": "organisms", "predicate": "are engaged in symbiotic relationships with", "object": "fungi and bacteria"}
+{"subject": "habitat/locations", "predicate": "are affected by environmental factors", "object": ""}
+{"subject": "interactions", "predicate": "involved in bark beetle defensive mechanisms against pathogens", "object": "pathogens"}
+{"subject": "attributes (size, color, shape)", "predicate": "are strongly affected by", "object": "environmental factors"}
+{"subject": "ecological relationships", "predicate": "are complex and apparently involved in bark beetle defensive mechanisms", "object": "against pathogens"}
+{"subject": "bark beetles", "predicate": "are one ∗ Correspondence to: Claude Guertin, INRS-Institut Armand-Frappier, 531 des Prairies Blvd, Laval, Quebec H7V 1B7, Canada.", "object": "Coleoptera: Curculionidae: Scolytinae"}
+{"subject": "fungi", "predicate": null, "object": null}
+{"subject": "organisms", "predicate": null, "object": null}
+{"subject": "locations", "predicate": "North America and other regions", "object": null}
+{"subject": "habitats", "predicate": "forest ecosystems", "object": "ecosystems"}
+{"subject": "interactions", "predicate": null, "object": null}
+{"subject": "attributes", "predicate": null, "object": "size, color, shape"}
+{"subject": "yeasts", "predicate": "naturally occurring in bark beetle galleries"}
+{"subject": "mites", "predicate": "inﬂuence the tripartite relationships between bark beetles, their associated fungi and bacteria"}
+{"subject": "nematodes", "predicate": "inﬂuence the tripartite relationships between bark beetles, their associated fungi and bacteria"}
+{"subject": "saproxylic beetles", "predicate": "may inﬂuence the tripartite relationships between bark beetles, their associated fungi and bacteria"}
+{"subject": "bacteria", "predicate": "forming a kind of consortium called the symbiotic complex with symbiotic fungi"}
+{"subject": "bark beetles", "predicate": "rely on fungi for at least some stages of their development"}
+{"subject": "fungal partners", "predicate": "having association existing between bark beetle species and fungi has multiple interactions built up around them"}
+{"subject": "fungi", "predicate": "ingest fungi (fruit-ling bodies or mycelium) that naturally colonise their galleries"}
+{"subject": "Isoptera", "predicate": null, "object": "termites"}
+{"subject": "Homoptera", "predicate": null, "object": "cicadas, aphids and scales"}
+{"subject": "Hymenoptera", "predicate": null, "object": "Siricidae and Formicidae"}
+{"subject": "Cerambycidae", "predicate": "association", "object": "insects and fungi"}
+{"subject": "Lymexylidae", "predicate": "association", "object": "insects and fungi"}
+{"subject": "Anobiidae", "predicate": "association", "object": "insects and fungi"}
+{"subject": "Bostrichidae", "predicate": "association", "object": "insects and fungi"}
+{"subject": "Scolytidae", "predicate": "association", "object": "insects and fungi"}
+{"subject": "Platypodidae", "predicate": "association", "object": "insects and fungi"}
+{"subject": "Coleoptera", "predicate": "order", "object": null}
+{"subject": "plants", "predicate": "tissues are recognised as a poor food resource", "object": "regarding insect requirements"}
+{"subject": "bark beetles", "predicate": "engage in symbiotic associations with microorganisms", "object": "to overcome their limited metabolic abilities"}
+{"subject": "Ophiostoma", "predicate": null, "object": "genus (sensu Harrington)"}
+{"subject": "Ascomycota", "predicate": "phylum", "object": "bark beetle fungal associates"}
+{"subject": "Basidiomycota", "predicate": "phylum", "object": "bark beetle fungal associates"}
+{"subject": "Ophiostoma", "predicate": "belonging to the genus Ophiostoma (sensu lato)", "object": "fungal partner"}
+{"subject": "Fungi", "predicate": "are the most common bark beetle fungal partners", "object": "bark beetles"}
+{"subject": "Ophiostomatoid fungi", "predicate": "represent an artificial (polyphyletic) taxonomic group", "object": "several teleo-morph genera"}
+{"subject": "Teleomorph genera", "predicate": "", "object": "e.g. Ophiostoma, Grossmania, Ceratocystiopsis, Ceratocystis, Gondwanamyces and Cornuvesica"}
+{"subject": "Leptographium", "predicate": "include Leptographium, Graphium, Pesotum, Hyalorhinocladiella and Sporothrix", "object": "anamorph genera"}
+{"subject": "Ambrosia beetles", "predicate": "", "object": "especially to the genera Ambrosiella, Raffaelea and Geosmithia"}
+{"subject": "Fungi", "predicate": "display morphological adaptations such as sticky spores located on the apical region of a stalk-like structure", "object": " vectored by bark beetles and other xylophagous insects"}
+{"subject": "fungal associates", "predicate": "are inoculated in", "object": "phloem"}
+{"subject": "fungi", "predicate": "provide", "object": "nutritional supply for larvae"}
+{"subject": "fungi", "predicate": "provide", "object": "essential sterols, such as ergosterol"}
+{"subject": "fungi", "predicate": "are involved in", "object": "bark beetle pheromone synthesis"}
+{"subject": "fungal associates", "predicate": "increase the insect host", "object": "fitness"}
+{"subject": "fungal associates", "predicate": "significantly reduce", "object": "larval development time"}
+{"subject": "fungal associates", "predicate": "significantly reduce", "object": "gallery length"}
+{"subject": "fungi associated with the symbiotic complex", "predicate": "can be compared to a", "object": "'root system' or an 'external stomach'"}
+{"subject": "fungi", "predicate": "associated with bark beetles", "object": "play a role as detoxiﬁers of hostile chemical compounds secreted by the tree host"}
+{"subject": "beetle species", "predicate": "are phloeophagous (phloem feeders)", "object": ""}
+{"subject": "fungus farming beetles", "predicate": "cultivate the fungi upon which they feed", "object": ""}
+{"subject": "fungus", "predicate": "cultivate", "object": "beetles"}
+{"subject": "beetles", "predicate": "feed on", "object": "fungi"}
+{"subject": "ambrosia beetles", "predicate": "exploit", "object": "host plants (angiosperms)"}
+{"subject": "ambrosia beetles", "predicate": "escape from", "object": "phloem resource competition"}
+{"subject": "fungus farming", "predicate": "", "object": "extent that the beetles cultivate the fungi upon which they feed"}
+{"subject": "beetles", "predicate": "have evolved independently from", "object": "xylomycetophagy (phloeophagy)"}
+{"subject": "beetles", "predicate": "", "object": "primitive character (phloeophagous feeding habit)"}
+{"subject": "ambrosia beetles", "predicate": "display", "object": "specialised cuticular structures (mycangia or mycentangia)"}
+{"subject": "beetles", "predicate": "", "object": "distinct ecological groups"}
+{"subject": "Dendroctonus complex", "predicate": "related to", "object": "mycangial fungi"}
+{"subject": "bark beetles", "predicate": "capable of killing living trees and initiating extensive outbreaks in forest ecosystems", "object": ""}
+{"subject": "mycangial fungi", "predicate": "associated with mycophagous bark beetles", "object": ""}
+{"subject": "bark beetles", "predicate": "development", "object": "importance of mycangial fungi"}
+{"subject": "southern pine beetle", "predicate": "complete removal of fungal partners from", "object": ""}
+{"subject": "fungi", "predicate": "development of bark beetles", "object": "None"}
+{"subject": "Dendroctonus frontalis Zimmermann", "predicate": "has fungal partners", "object": "fungi"}
+{"subject": "Bleiker and Six", "predicate": "demonstrated that absence of fungi negatively affects larval development of mountain pine beetle", "object": "None"}
+{"subject": "Dendroctonus ponderosae Hopkins", "predicate": "has fungal partners", "object": "fungi"}
+{"subject": "Hypothenemus hampei Ferrari", "predicate": "established that removal of mycangial fungi negatively affects moult and larval development", "object": "None"}
+{"subject": "bark beetles", "predicate": "benefit from mutualistic association with fungi", "object": "fungi"}
+{"subject": "coffee berry borer", "predicate": "has mycangial fungi", "object": "mycangial fungi"}
+{"subject": "mycangial bark beetles", "predicate": "have more beneﬁcial effects on their fungal partners", "object": "than those carried on the exoskeleton"}
+{"subject": "phloeophagous (phloem-feeding) bark beetles", "predicate": "do not appear to be essential for them to complete their life cycle", "object": ""}
+{"subject": "non-mycangial bark beetles", "predicate": "draw more beneﬁts than the insect host", "object": ""}
+{"subject": "symbiotic fungi of non-mycangial bark beetles", "predicate": "are generally carried on the insect exoskeleton and phoretically spread in galleries", "object": ""}
+{"subject": "non-mycangial bark beetles", "predicate": "may transport and inoculate a large variety of ophiostomatoid fungi", "object": "that have no or little beneﬁcial effect for the insect host"}
+{"subject": "non-mycangial bark beetle species", "predicate": "are still present", "object": ""}
+{"subject": "Ceratocystis ruﬁpenni", "predicate": "frequently associated with populations of spruce beetle in British Colombia, Canada", "object": "spruce beetle"}
+{"subject": "Leptographium abietinum", "predicate": "high degree of association (80–100% of beetle population) with", "object": "Dendroctonus ruﬁpennis"}
+{"subject": "Ceratocystis ruﬁpenni", "predicate": "highly phytopathogenic fungus", "object": "None"}
+{"subject": "non-mycangial bark beetle species", "predicate": "could establish and maintain permanent association with some ophiostomatoid fungi", "object": "ophiostomatoid fungi"}
+{"subject": "Dendroctonus ruﬁpennis", "predicate": "display a high degree of association (80–100% of beetle population) with Leptographium abietinum", "object": "Leptographium abietinum"}
+{"subject": "British Colombia, Canada", "predicate": "frequently associated with populations of spruce beetle in", "object": "spruce beetle"}
+{"subject": "beetle", "predicate": "display both positive and negative effects on", "object": "insect host"}
+{"subject": "beetle", "predicate": "has a fungal associate", "object": "Ophiostoma ips (Rumbold) Nannf."}
+{"subject": "beetle", "predicate": "has a fungal associate", "object": "L. abietinum"}
+{"subject": "environment", "predicate": "can act as a limiting factor of fungal growth and development in", "object": "coniferous hosts"}
+{"subject": "fungal partners", "predicate": "display both positive and negative effects on the beetle host", "object": "pine engraver, Ips pini (Say)"}
+{"subject": "beetle", "predicate": "is influenced by environmental factors affecting", "object": "the presence and abundance of fungal partners in bark beetle galleries"}
+{"subject": "environmental pressures", "predicate": "induces rapid changes in the partnership between", "object": "bark beetles and their fungal associates"}
+{"subject": "beetle", "predicate": "is subject to context dependency", "object": "the bark beetle/fungi symbiosis"}
+{"subject": "fungus", "predicate": "display high genetic variability", "object": "among different strains"}
+{"subject": "fungus", "predicate": "perform different ecological functions", "object": "same fungal species"}
+{"subject": "bark beetle fungal partners", "predicate": "display high genetic variability", "object": "among different strains"}
+{"subject": "fungal partners in bark beetle galleries", "predicate": "may be influenced by environmental factors", "object": "such as temperature and water availability"}
+{"subject": "temperature", "predicate": "influence fungal competitiveness", "object": "small changes in phloem water potential"}
+{"subject": "phloem oxygen concentration", "predicate": "affect fungal growth", "object": "pathogenicity"}
+{"subject": "bark beetles", "predicate": "transport several strains of the same fungal species", "object": "and these fungal strains may perform different ecological functions"}
+{"subject": "tree chemistry", "predicate": "influence bark beetle associated fungi", "object": "biotic factors"}
+{"subject": "bark beetle", "predicate": "associated with", "object": "fungi"}
+{"subject": "fungal growth", "predicate": "may be inhibited by", "object": "monoterpenes and diterpene acids and stilbene phenolics secreted by coniferous hosts"}
+{"subject": "conifers", "predicate": "secreted by", "object": "heptanes"}
+{"subject": "Dendroctonus tree-killing beetles", "predicate": "associated with", "object": "nutritional symbiotic fungi"}
+{"subject": "fungi associated with Dendroctonus tree-killing beetles", "predicate": "growth may be directly affected by", "object": "phytochemistry of the host"}
+{"subject": "plants", "predicate": "displaying phenotypes characterized by high expression of defensive chemical compounds", "object": "terpenes"}
+{"subject": "beetle populations", "predicate": "affected indirectly by", "object": "phytochemical compounds affecting the growth of symbiotic fungi"}
+{"subject": "fungi", "predicate": "affecting the growth of their symbiotic", "object": "beetle populations"}
+{"subject": "organisms", "predicate": "are highly phytopathogenic", "object": "C. ruﬁpenni and Ceratocystis polonica (Siemaszko)"}
+{"subject": "interactions", "predicate": "may act in partnership with aggressive bark beetles", "object": "helping them to kill living trees"}
+{"subject": "locations", "predicate": "are associated with bark beetles in coniferous trees", "object": "coniferous hosts"}
+{"subject": "habitats", "predicate": "have shown that some species are highly phytopathogenic", "object": "ophiostomatoid fungi"}
+{"subject": "species", "predicate": "are highly phytopathogenic", "object": "these fungi"}
+{"subject": "ecological relationships", "predicate": "demonstrate a low pathogenicity of these fungi against coniferous hosts", "object": "Fungal pathogenicity is experimentally verified"}
+{"subject": "fungi", "predicate": "displaying high pathogenic levels", "object": "in microhabitats"}
+{"subject": "fungal growth", "predicate": "compete for space and resources", "object": "and may indirectly affect bark beetle population dynamics."}
+{"subject": "beetle galleries", "predicate": "dominated by strong competition between different fungal species", "object": "From the evolutionary standpoint"}
+{"subject": "insect beetles", "predicate": "is more useful to fungi than", "object": "phytopathogenicity"}
+{"subject": "fungal growth", "predicate": "indicative of the exhaustion point of the tree defensive system", "object": "the asynchrony between the growth rate of bark beetle symbiotic fungi and"}
+{"subject": "fungi", "predicate": "compete for space and resources in bark beetle galleries", "object": ""}
+{"subject": "beetle galleries", "predicate": "and may indirectly affect bark beetle population dynamics", "object": ""}
+{"subject": "fungal species", "predicate": "strong competition between different fungal species", "object": "in microhabitats"}
+{"subject": "ambrosia beetles", "predicate": "carried by ambrosia beetles are known to be innocuous to the host trees", "object": "Normally, fungi associated with"}
+{"subject": "saproxylic insects", "predicate": "their symbiotic fungi is the unexpected emergence of phytopathogenicity of fungi", "object": "Another issue that remains poorly understood"}
+{"subject": "ambrosia fungus", "predicate": "vectored by", "object": "Xyleborus glabratus"}
+{"subject": "redbay tree", "predicate": "causes damage to", "object": "extensive"}
+{"subject": "ambrosia beetle", "predicate": "carries", "object": "innocuous fungi"}
+{"subject": "North America", "predicate": "has a distribution area in", "object": "ambrosia fungus Raffaelea lauricola T.C. Harr., Fraedrich & Aghayeva"}
+{"subject": "Xyleborus glabratus", "predicate": "causes damage to redbay tree with", "object": "extensive"}
+{"subject": "Hulcr and Dunn", "predicate": "proposed hypotheses that could explain the sudden emergence of pathogenicity in ambrosia fungi occurring outside their original distribution area", "object": "none"}
+{"subject": "native ambrosia beetles", "predicate": "established an equilibrium with", "object": "their hosts over millions of years"}
+{"subject": "ambrosia fungus", "predicate": "exert environmental pressure on", "object": "new habitats"}
+{"subject": "bark and ambrosia beetles", "predicate": "introduced into new habitats", "object": "environmental pressure"}
+{"subject": "Xyleborus glabratus", "predicate": "is vectored by ambrosia fungus Raffaelea lauricola T.C. Harr., Fraedrich & Aghayeva", "object": "none"}
+{"subject": "ambrosia fungus", "predicate": "may arise as new virulent genotypes", "object": "newly introduced habitats"}
+{"subject": "Lu et al.", "predicate": "demonstrated the emergence of new virulent fungal genotypes in newly introduced habitats", "object": "none"}
+{"subject": "fungi", "predicate": "arise", "object": "new virulent and well-adapted fungal genotypes"}
+{"subject": "Six et al.", "predicate": "provide several arguments to support the equilibrium hypothesis", "object": "the importance of the coevolution between bark beetles and their associated microbial complex"}
+{"subject": "bark beetles", "predicate": "have unpredictable consequences for natural forest ecosystems", "object": "any anthropogenic intrusion"}
+{"subject": "host tree", "predicate": "part of tritrophic interactions", "object": "between host tree, bark beetles and symbiotic fungi"}
+{"subject": "bark beetles", "predicate": "associated with their associated fungi", "object": "remain unclear"}
+{"subject": "Six and Wingﬁeld", "predicate": "specify that not all fungal species play a role as symbiotic partners", "object": "none"}
+{"subject": "fungal species", "predicate": "play a role as symbiotic partners", "object": "bark beetles"}
+{"subject": "association of bark beetles with fungi", "predicate": "ranges from mutualism to antagonism", "object": "beetle fitness and development"}
+{"subject": "bark beetles", "predicate": "should be considered", "object": "mutualistic, commensal or antagonistic"}
+{"subject": "novel research avenues for the biological control of bark beetles", "predicate": "could be explored", "object": "by targeting mutualistic fungi"}
+{"subject": "bark and ambrosia beetle mutualistic fungi", "predicate": "could potentially disrupt", "object": "nutrition and normal development of the insect host"}
+{"subject": "bark beetles", "predicate": "are less dependent on their", "object": "environment/habitat"}
+{"subject": "Wingﬁeld 93", "predicate": "specify that", "object": "association of bark beetles with fungi"}
+{"subject": "organisms", "predicate": "are associated with bark beetles", "object": "fungi"}
+{"subject": "organisms", "predicate": "perform important functions within the symbiotic complex", "object": "bacteria"}
+{"subject": "organisms", "predicate": "may stimulate or inhibit the growth of", "object": "fungi"}
+{"subject": "organisms", "predicate": "act as mediators in bark beetle–fungi symbiotic relationships", "object": "bacteria"}
+{"subject": "locations", "predicate": "are found predominantly on", "object": "the cuticle"}
+{"subject": "habitats", "predicate": "occur in the gut", "object": "endosymbiotic bacteria"}
+{"subject": "habitats", "predicate": "occur in the body cavity and within cells", "object": "endosymbiotic bacteria"}
+{"subject": "organisms", "predicate": "may have different control strategies considered", "object": "fungi"}
+{"subject": "organisms", "predicate": "may be referred to as", "object": "bacteria"}
+{"subject": "bacteria", "predicate": "are found predominantly on", "object": "the cuticle and the mouthparts of the insects"}
+{"subject": "endosymbiotic bacteria", "predicate": "their degree of association with their insect host ranges from", "object": "obligate mutualistic to commensal to parasitic"}
+{"subject": "insect host", "predicate": "the obligate mutualistic bacteria that tightly coevolved with them are also known as primary mutualists and usually occur inside cells in special gut structures called bacteriocytes", "object": null}
+{"subject": "Primary mutualists", "predicate": "are strictly vertically transmitted and generally cannot be cultured on microbiological media", "object": null}
+{"subject": "facultative mutualistic bacteria", "predicate": "are not coevolutionarily linked with their insect host", "object": null}
+{"subject": "insect tissues", "predicate": "they occur both inside and outside host cells in a wide range of", "object": null}
+{"subject": "insect", "predicate": "tissues"}
+{"subject": "facultative mutualistic bacteria", "predicate": "are not always vertically transmitted to the next generation of insect host"}
+{"subject": "environment", "predicate": "could be recurrently acquired from"}
+{"subject": "insect individuals", "predicate": "transmitted between"}
+{"subject": "bark beetles", "predicate": "has been characterised in particular from oral secretions"}
+{"subject": "oral secretions", "predicate": "characterised in"}
+{"subject": "gut", "predicate": "characterised in"}
+{"subject": "insect individuals", "predicate": "transmitted between"}
+{"subject": "bacterial microflora", "predicate": "has been characterised in bark beetles"}
+{"subject": "oral secretions", "predicate": "from which bacterial microflora has been characterised"}
+{"subject": "crushed insects", "predicate": "from which bacterial microflora has been characterised"}
+{"subject": "bacterial taxa", "predicate": "have been isolated in bark beetles"}
+{"subject": "α-proteobacteria", "predicate": "Methylobac-terium, Sphingomonas, Mycoplana, Rhodobacter"}
+{"subject": "bacteriodetes", "predicate": "Chryseobacterium"}
+{"subject": "ﬁrmicutes", "predicate": "Bacillus, Brevibacillus, Staphylococ- cus, Enterococcus, Lactobacillus, Leuconostoc"}
+{"subject": "β-proteobacteria", "predicate": "Burkholderia, Alcaligenes"}
+{"subject": "γ-proteobacteria", "predicate": "Raoultella, Serratia, Pantoea, Stenotrophomonas, Acinet- bacter, Cedecea, Erwinia, Haf-"}
+{"subject": "insects", "predicate": "improve", "object": "nutritional quality"}
+{"subject": "bacteria", "predicate": "provide", "object": ["essential amino acids", "B vitamins", "nitrogen", "sterols"]}
+{"subject": "insects", "predicate": "gain ecological opportunity to", "object": "broadening their food spectrum"}
+{"subject": "insects", "predicate": "gain ecological specialisation by", "object": "restraining the food plant range"}
+{"subject": "bacteria", "predicate": "capable of metabolising", "object": "plant toxic compounds"}
+{"subject": "bacterial partners", "predicate": "may be involved in", "object": "pheromone synthesis"}
+{"subject": "insects", "predicate": "provide protection from", "object": ["fungal competitors", "fungal pathogens"]}
+{"subject": "symbiotic bacteria and fungi", "predicate": "perform similar functions for", "object": "insect hosts"}
+{"subject": "fungi", "predicate": "rather provide", "object": ["sugars", "fats"]}
+{"subject": "bacteria", "predicate": "synthesise essential amino acids"}
+{"subject": "fungi", "predicate": "outcompete", "object": "ant beneﬁcial fungi"}
+{"subject": "bacteria", "predicate": "synthesise", "object": "essential amino acids"}
+{"subject": "insect", "predicate": "host resistance", "object": "external aggressors"}
+{"subject": "bacteria", "predicate": "play", "object": "essential functions"}
+{"subject": "symbiotic bacteria", "predicate": "associate with", "object": "insect immunity"}
+{"subject": "actinobacteria", "predicate": "inhibit", "object": "an antagonistic fungus (Escovopsis sp.)"}
+{"subject": "ant", "predicate": "transport", "object": "actinobacteria carried by gynes on the cuticle"}
+{"subject": "mutualistic actinobacteria", "predicate": "secret", "object": "antibiotic secondary metabolites"}
+{"subject": "leaf-cutting ants (subfamily Attinae)", "predicate": "cultivate", "object": "beneﬁcial fungi"}
+{"subject": "actinobacteria", "predicate": "characterise", "object": "candicidin, a macrolide"}
+{"subject": "Streptomyces sp.", "predicate": "are carried by", "object": "ant gynes on the cuticle"}
+{"subject": "Streptomyces sp.", "predicate": "inhibits the growth", "object": "Ophiostoma minus (Hedgc.) Syd. & Syd."}
+{"subject": "D. ponderosae", "predicate": "exhibits a higher percentage of actinobacteria", "object": "Streptomyces sp."}
+{"subject": "I. pini", "predicate": "compared to", "object": "D. ponderosae"}
+{"subject": "D. frontalis", "predicate": "had Streptomyces species isolated from galleries and mycangia", "object": "None"}
+{"subject": "Streptomyces sp.", "predicate": "is very abundant and widespread in the majority of bark beetle galleries", "object": "North America"}
+{"subject": "D. ponderosae", "predicate": "had Streptomyces species isolated from all body parts", "object": "None"}
+{"subject": "Streptomyces sp.", "predicate": "found a large variety of isolates", "object": "None"}
+{"subject": "North America", "predicate": "is the location where bark beetles were collected", "object": "D. ponderosae"}
+{"subject": "species", "predicate": "have", "object": "Actinobacteria"}
+{"subject": "bark beetle species", "predicate": "been identiﬁed in the gut of", "object": "Actinobacteria"}
+{"subject": "red turpentine beetle", "predicate": "", "object": "D. valens"}
+{"subject": "pine engraver", "predicate": "", "object": "I. pini"}
+{"subject": "gypsy moth", "predicate": "", "object": "Lymantria dispar (L.)"}
+{"subject": "emerald ash borer", "predicate": "", "object": "Agrilus planipennis Fairmaire"}
+{"subject": "actinobacteria isolated from the gut of bark beetles", "predicate": "may perform", "object": "cellulolytic activities"}
+{"subject": "pine engraver", "predicate": "", "object": "I. pini"}
+{"subject": "oral secretion versus gut", "predicate": "", "object": "the actinobacteria community appears to be different"}
+{"subject": "Actinobacteria", "predicate": "are present in", "object": "gut microflora of D. frontalis"}
+{"subject": "D. frontalis", "predicate": "have gut microflora containing", "object": "actinobacterial species"}
+{"subject": "Southern pine beetle", "predicate": "contain", "object": "actinobacteria and mycangia with actinobacteria"}
+{"subject": "Saperda vestita", "predicate": "lack actinobacteria in gut microflora", "object": "null"}
+{"subject": "Rhagium inquisitor", "predicate": "have gut microflora containing", "object": "actinobacterial species"}
+{"subject": "Stictoleptura rubra", "predicate": "have gut microflora containing", "object": "actinobacterial species"}
+{"subject": "Desert locust", "predicate": "protect against pathogens through", "object": "secreting antifungal compounds"}
+{"subject": "Schistocerca gregaria Forsskål", "predicate": "produce", "object": "antifungal compounds such as phenols"}
+{"subject": "Metarhizium anisopliae (Metschn.) Sorokin", "predicate": "are protected against by", "object": "gut microbiota of Schistocerca gregaria Forsskål"}
+{"subject": "Actinobacteria isolated from D. frontalis", "predicate": "produce", "object": "inhibitory secondary metabolites"}
+{"subject": "Pandora (Erynia) neoaphidis", "predicate": "is affected by", "object": "Regiella insecticola"}
+{"subject": "crabronid wasps, Philanthus triangulum (Fabricius)", "predicate": "secrete antimicrobial compounds for", "object": "protection against pathogens"}
+{"subject": "Pandora (Erynia) neoaphidis", "predicate": "affects", "object": "insect host of pea aphid,Acyrthosiphon pisum Harris"}
+{"subject": "Regiella insecticola", "predicate": "protects", "object": "pea aphid,Acyrthosiphon pisum Harris"}
+{"subject": "Pandora (Erynia) neoaphidis", "predicate": "causes disease in", "object": "insect host of pea aphid,Acyrthosiphon pisum Harris"}
+{"subject": "pea aphid,Acyrthosiphon pisum Harris", "predicate": "has endosymbiotic bacterium Regiella insecticola for", "object": "protection and survival"}
+{"subject": "Pandora (Erynia) neoaphidis", "predicate": "is affected by", "object": "insect gut microﬂora"}
+{"subject": "organisms", "predicate": "perform nutritional and protective functions", "object": "bacteria"}
+{"subject": "organisms", "predicate": "associate with insects", "object": "symbiotic bacteria"}
+{"subject": "ecological relationships", "predicate": "represent the first line in the insect–bacteria partnership", "object": "primary mutualistic bacteria"}
+{"subject": "habitats", "predicate": "mediate insect–plant interaction", "object": ""}
+{"subject": "insects", "predicate": "are facilitated by symbiotic bacteria", "object": "invasiveness"}
+{"subject": "organisms", "predicate": "regulate population levels", "object": "insect populations"}
+{"subject": "ecological relationships", "predicate": "have sustained genome stability", "object": "primary symbiotic bacteria"}
+{"subject": "species", "predicate": "", "object": ""}
+{"subject": "organisms", "predicate": "", "object": ""}
+{"subject": "insect host", "predicate": "cellular metabolic pathways", "object": "primary symbiotic bacteria"}
+{"subject": "primary symbiotic bacteria", "predicate": "importance", "object": "genome simpliﬁcations"}
+{"subject": "Wolbachia spp.", "predicate": "", "object": "more than 70% of described insect species"}
+{"subject": "insect survival and reproduction", "predicate": "requirement for primary mutualistic bacteria", "object": ""}
+{"subject": "facultative mutualistic bacteria", "predicate": "potential candidates to replace primary bacteria", "object": ""}
+{"subject": "Wolbachia spp.", "predicate": "carried by", "object": "more than 70% of described insect species"}
+{"subject": "Pityogenes calcographus (L.)", "predicate": "isolated from", "object": "ovarian epithelial tissue"}
+{"subject": "Wolbachia", "predicate": "cause", "object": "major reproductive problems in insect hosts"}
+{"subject": "insect hosts", "predicate": "derived benefits from", "object": "relationship with Wolbachia"}
+{"subject": "Feldhaar", "predicate": "used the term", "object": "holobiont to designate an organism whose phenotype arises from combined genes of the host as well as the genes of all symbiotic bacteria"}
+{"subject": "organism", "predicate": "phenotype arose from", "object": "combined genes of the host and symbiotic bacteria"}
+{"subject": "holobionts", "predicate": "associated microbiota is part of", "object": "hologenome"}
+{"subject": "symbiosis", "predicate": "purpose is to create", "object": "improved biotic system"}
+{"subject": "fungi", "predicate": "association between bacteria and", "object": "bark beetles"}
+{"subject": "Dendroctonus species", "predicate": "associated with", "object": "various Streptomyces actinobacteria"}
+{"subject": "bacteria", "predicate": "growth of symbiotic bacteria associated with bark beetles", "object": "strongly inhibit by", "attributes": ["size", "color", "shape"]}
+{"subject": "actinobacteria", "predicate": "play a major role in", "object": "bark beetle symbiotic relationships"}
+{"subject": "bark beetles", "predicate": "associated with", "object": "Streptomyces actinobacteria"}
+{"subject": "locations", "predicate": "varies between different sampled sites"}
+{"subject": "bark beetle-associated actinobacteria", "predicate": "are", "object": "mutualists"}
+{"subject": "bark beetle-associated actinobacteria", "predicate": "are", "object": "simply acquired from the environment"}
+{"subject": "actinobacteria", "predicate": "have", "object": "no evidence of coevolutionary association with their insect hosts"}
+{"subject": "Attinae ants", "predicate": "revealed that", "object": "their associated actinobacteria are not phylogenetically linked with their host"}
+{"subject": "insect hosts", "predicate": "exhibit an adaptive or repairing system capable of easily replacing the symbiotic microflora"}
+{"subject": "symbiotic bacteria of the bark beetle", "predicate": "could theoretically represent a target for physiological disruption or genetic manipulation"}
+{"subject": "bark beetle-associated actinobacteria", "predicate": "represent a target for", "object": "physiological disruption or genetic manipulation"}
+{"subject": "Lecanicil-lium muscarium", "predicate": "isolated from", "object": "galleries of the great spruce bark beetle, Dendroctonus micans"}
+{"subject": "B. bassiana", "predicate": "isolated from", "object": "western balsam bark beetle galleries, Dryocoetes confusus Swaine, in British Columbia, Canada"}
+{"subject": "Dendroctonus micans", "predicate": "has a microbial symbiotic complex with", "object": "B. bassiana"}
+{"subject": "Dryocoetes confusus Swaine", "predicate": "has been isolated from", "object": "B. bassiana"}
+{"subject": "New Zealand", "predicate": "is the location where B. bassiana has been founded in frass and galleries of bark beetles"}
+{"subject": "British Columbia, Canada", "predicate": "is the location where B. bassiana was isolated from western balsam bark beetle galleries"}
+{"subject": "North America", "predicate": "is the region where B. bassiana was isolated from western balsam bark beetle galleries"}
+{"subject": "Canada", "predicate": "is a location where some observations on spruce beetle populations have been made"}
+{"subject": "Scotia", "predicate": "is a location where some observations on spruce beetle populations have been made"}
+{"subject": "D. ruﬁpennis", "predicate": "has been observed to be affected by the presence of B. bassiana in post-outbreak trees"}
+{"subject": "Guertin C", "predicate": "has observed that B. bassiana occurs predominantly in post-outbreak trees"}
+{"subject": "Lavall ´ee R", "predicate": "has observed that B. bassiana occurs predominantly in post-outbreak trees"}
+{"subject": "entomopathogenic fungus", "predicate": "is a characteristic of", "object": "B. bassiana"}
+{"subject": "beetle", "predicate": "galleyies probably originates from", "object": "collembolans"}
+{"subject": "insects", "predicate": "are able to carry", "object": "entomopathogenic fungi"}
+{"subject": "Bassiana", "predicate": "is", "object": "a type of entomopathogenic fungus"}
+{"subject": "collembolans", "predicate": "are able to vectoring", "object": "from forest soil"}
+{"subject": "Collembolans", "predicate": "are able to carry", "object": "entomopathogenic fungi"}
+{"subject": "B. brongniartii (Sacc.) Petch", "predicate": "is a type of entomopathogenic fungus", "object": "null"}
+{"subject": "Metarhizium anisopliae", "predicate": "is a type of entomopathogenic fungus", "object": "null"}
+{"subject": "Mites (Acaria)", "predicate": "could also be involved in carrying and spreading", "object": "entomopathogenic fungal propagules"}
+{"subject": "Bark beetles", "predicate": "are challenged in the laboratory against", "object": "their insect host"}
+{"subject": "Entomopathogenic fungi", "predicate": "are isolated from bark beetle galleries and subsequently", "object": "subsequently challenged in the laboratory"}
+{"subject": "B. bassiana", "predicate": "induces a high percentage of mortality in", "object": "coffee berry borer natural populations, H. hampei"}
+{"subject": "Pityokteines curvidens (Germar)", "predicate": "is maintained under 50%", "object": "natural mortality rate"}
+{"subject": "Bassiana", "predicate": "varies according to the sites studied", "object": "in Croatia"}
+{"subject": "H. hampei", "predicate": "has a level of natural infection that varies geographically", "object": "with B. bassiana"}
+{"subject": "Pityokteines spinidens (Reitter)", "predicate": "is also studied in Croatia", "object": "along with P. curvidens"}
+{"subject": "Bassianainoculated", "predicate": "transmit mycosis horizontally", "object": "natural population of mountain pine beetles"}
+{"subject": "coffee berry borer", "predicate": "beetle populations in treated plots compared with the control", "object": "None signiﬁcantly affected"}
+{"subject": "Bassiana", "predicate": "could be successfully infecting a beetle population", "object": "a fungus"}
+{"subject": "Hallet et al.", "predicate": "demonstrated that B. bassiana could be successfully", "object": "infecting a beetle population with a fungus"}
+{"subject": "Bassiana", "predicate": "could be successfully applied", "object": "overwintering sites of the European spruce bark beetle"}
+{"subject": "Ips typographus(L.)", "predicate": "was mainly infected with persistence in the forest soil litter", "object": "the fungus Bassiana"}
+{"subject": "T. piniperda", "predicate": "was targeted to control the pine shoot beetle", "object": "in Europe"}
+{"subject": "Lutyk and Swieczynska", "predicate": "used field trap logs sprayed with Bassiana", "object": "to control the pine shoot beetle in Europe"}
+{"subject": "Bassiana", "predicate": "had a mycosis percentage ranging from 71 to 100% in beetle populations", "object": "the beetle populations"}
+{"subject": "autocontamination and autodissemina-tion process", "predicate": "was used as a modified trap combining an insect attractant, a pheromone with fungal conidia", "object": "an insect attractant, a pheromone with fungal conidia"}
+{"subject": "I. typographus populations in Europe", "predicate": "were inoculated using modiﬁed traps", "object": "with fungal conidia"}
+{"subject": "Vaupel and Zimmermann", "predicate": "obtained a reduction", "object": "in the I. typographus populations"}
+{"subject": "I. typographus", "predicate": "inoculated with", "object": "fungal conidia"}
+{"subject": "field caged logs", "predicate": "inoculated with", "object": "fungus-treated populations"}
+{"subject": "beetle populations", "predicate": "affected by", "object": "mating behaviour (monogamy versus polygamy)"}
+{"subject": "D. ruﬁpennis", "predicate": "inoculated with", "object": "fungal conidia"}
+{"subject": "T. piniperda", "predicate": "inoculated with", "object": "fungal conidia"}
+{"subject": "spruce beetle populations", "predicate": "experienced high cumulative mortality in", "object": "74% within 4 days (treated populations)"}
+{"subject": "pine shoot beetle populations", "predicate": "experienced high cumulative mortality in", "object": "98–100% (treated populations)"}
+{"subject": "fungal inocula", "predicate": "expose wood-boring beetle populations to"}
+{"subject": "wood-boring beetles", "predicate": "are vulnerable during"}
+{"subject": "ﬂight and the mating period", "predicate": "occurs"}
+{"subject": "soil litter", "predicate": "during overwintering in"}
+{"subject": "field conditions", "predicate": "can act as a barrier for the growth and development of"}
+{"subject": "fungal pathogens", "predicate": "in"}
+{"subject": "tritrophic interactions between an entomopathogen, an insect, and its host plant", "predicate": "is likely that the plant will influence the effectiveness of"}
+{"subject": "plant", "predicate": "influences the effectiveness of"}
+{"subject": "entomopathogenic fungi", "predicate": "on the insect population dynamics"}
+{"subject": "insect populations", "predicate": "within"}
+{"subject": "fungal isolates", "predicate": "are able to initiate an epizooty within"}
+{"subject": "insect populations", "predicate": "with limited non-target effects"}
+{"subject": "previous studies", "predicate": "validate the potential of ento-"}
+{"subject": "organisms", "predicate": "validate the potential of ento-mopathogenic fungi as interesting candidates in biological control of bark beetle forest pests"}
+{"subject": "ecological relationships", "predicate": "the impact on non-target species"}
+{"subject": "locations", "predicate": "insect natural habitats"}
+{"subject": "habitat", "predicate": "and their fate"}
+{"subject": "fungi", "predicate": "management, such as molecular tracking of isolates used in treatments"}
+{"subject": "organisms", "predicate": "the ecology and fate of fungal isolates in insect natural habitats"}
+{"subject": "interactions", "predicate": "and their impact on non-target species"}
+{"subject": "attributes", "predicate": "formulations that may considerably ameliorate the effectiveness of field trials with microbial control agents", "object": "size, color, shape"}
+{"subject": "Scolytus scolytus", "predicate": "Mortality (%)", "object": "90"}
+{"subject": "B. bassiana", "predicate": "", "object": "90"}
+{"subject": "A", "predicate": "", "object": "B. bassiana"}
+{"subject": "Scolytus amygdali", "predicate": "Mortality (%)", "object": "81.2-100"}
+{"subject": "C. militaris", "predicate": "", "object": "36"}
+{"subject": "H. thompsonii", "predicate": "", "object": "46"}
+{"subject": "N. rylei", "predicate": "", "object": "83"}
+{"subject": "L. lecanii", "predicate": "", "object": "56"}
+{"subject": "I. farinosa", "predicate": "", "object": "76"}
+{"subject": "Scolytus multistriatus", "predicate": "", "object": "100"}
+{"subject": "M. anisopliae", "predicate": "", "object": "90"}
+{"subject": "I. farinose", "predicate": "", "object": "10"}
+{"subject": "B. bassiana", "predicate": "", "object": "5-11, 5, 6.1, 8, 28, 4, 5, 4, 5, 10"}
+{"subject": "Ips subelongatus", "predicate": "", "object": "89, n.a."}
+{"subject": "Ips typographus", "predicate": "", "object": "99-100, 6.1"}
+{"subject": "B. bassiana", "predicate": "", "object": "70, 100, 4, 100, 5, 90, 4, 100"}
+{"subject": "M. ansiopliae", "predicate": "", "object": "100"}
+{"subject": "I. fumosorosea", "predicate": "", "object": "10"}
+{"subject": "C. militaris", "predicate": "", "object": "n.a."}
+{"subject": "L. lecanii", "predicate": "", "object": "56, 100"}
+{"subject": "I. farinosa", "predicate": "", "object": "76"}
+{"subject": "Ips typographus", "predicate": "", "object": "6.1"}
+{"subject": "Scolytus scolytus", "predicate": "", "object": "7-11, 5"}
+{"subject": "B. bassiana", "predicate": "", "object": "10, 5-26"}
+{"subject": "Ips sexdentatus", "predicate": "", "object": "93.7, 8"}
+{"subject": "A", "predicate": "Habitats", "object": ""}
+{"subject": "Scolytus scolytus (F.) L", "predicate": "", "object": "Bark beetle species"}
+{"subject": "Ips sexdentatus", "predicate": "(Boern.) A", "object": "B. bassiana"}
+{"subject": "A", "predicate": "M. ansiopliae", "object": "100 4 179"}
+{"subject": "A", "predicate": "L. lecanii", "object": "90 5 179"}
+{"subject": "Ips sexdentatus", "predicate": "(Boern.) A", "object": "B. bassiana"}
+{"subject": "A", "predicate": "B.bassiana", "object": "97 4.7 181"}
+{"subject": "Ips acuminatus", "predicate": "(Gyll.) A", "object": "I. farinosa"}
+{"subject": "Tomicus piniperda", "predicate": "(L.) A", "object": "B. bassiana"}
+{"subject": "Trypodendron lineatum", "predicate": "(Oliv.) L", "object": "B. bassiana"}
+{"subject": "Dendroctonus micans", "predicate": "(Kugel.) L", "object": "B. bassiana"}
+{"subject": "L B.bassiana", "predicate": "90 10 148"}
+{"subject": "L I. fumosorosea", "predicate": "Weak n.a.", "object": "148"}
+{"subject": "L L. muscarium", "predicate": "Weak n.a.", "object": "148"}
+{"subject": "Fusarium sp.", "predicate": "Weak n.a.", "object": "148"}
+{"subject": "A B.bassiana", "predicate": "23–100 6 185"}
+{"subject": "A I. fumosorosea", "predicate": "Weak n.a.", "object": "148"}
+{"subject": "A L. muscarium", "predicate": "Weak n.a.", "object": "148"}
+{"subject": "A M. ansiopliae", "predicate": "100 6 185"}
+{"subject": "Pityogenes chalcographus", "predicate": "(L.) L and P", "object": "B. bassiana"}
+{"subject": "Polygraphus polygraphus", "predicate": "(L.) A", "object": "B. bassiana"}
+{"subject": "A B.bassiana", "predicate": "70–82 0.16 187"}
+{"subject": "Hypothenemus hampei", "predicate": "(Ferrari) A", "object": "B. bassiana"}
+{"subject": "Platypus spp.", "predicate": "L B. bassiana", "object": "57–89 3 189"}
+{"subject": "Hypothenemus hampei", "predicate": "B. bassiana", "object": "100"}
+{"subject": "Platypus spp.", "predicate": "B. bassiana", "object": "57–89"}
+{"subject": "L B. brongniartii", "predicate": "93", "object": "3"}
+{"subject": "L M. anisopliae", "predicate": "50–75", "object": "3"}
+{"subject": "A B. bassiana", "predicate": "B. bassiana", "object": "100"}
+{"subject": "A B. brongniartii", "predicate": "B. bassiana", "object": "100"}
+{"subject": "A M. anisopliae", "predicate": "B. bassiana", "object": "4"}
+{"subject": "Hypothenemus hampei", "predicate": "ATS", "object": "3–4"}
+{"subject": "Platypus spp.", "predicate": "ATS", "object": "3"}
+{"subject": "L B. brongniartii", "predicate": "ATS", "object": "3"}
+{"subject": "L M. anisopliae", "predicate": "ATS", "object": "3"}
+{"subject": "A B. bassiana", "predicate": "ATS", "object": "6–8"}
+{"subject": "A B. brongniartii", "predicate": "ATS", "object": "6–8"}
+{"subject": "A M. anisopliae", "predicate": "ATS", "object": "4"}
+{"subject": "bark beetle", "predicate": "pests", "object": "forest"}
+{"subject": "forest pests", "predicate": "microbial associates", "object": "biotechnological practices"}
+{"subject": "insect host", "predicate": "defensive mechanism", "object": null}
+{"subject": "transgenesis", "predicate": "tool for biological control", "object": "manipulation of insect microbial associates"}
+{"subject": "paratransgenesis", "predicate": "tool for biological control", "object": "manipulation of insect microbial associates"}
+{"subject": "symbiotic relationships", "predicate": "opportunities provided by", "object": "future research"}
+{"subject": "bark beetle", "predicate": "pest management", "object": "symbiotic complex"}
+{"subject": "Agricultural Research Organisation", "predicate": "Volcani Centre", "object": "Israel"}
+{"subject": "USDA-Forest Service", "predicate": "", "object": ""}
+{"subject": "Montana State University", "predicate": "Bozeman, MT", "object": ""}
+{"subject": "Institute of Plant Protection", "predicate": "Soﬁa, Bulgaria", "object": ""}
+{"subject": "INRS-Institut Armand-Frappier", "predicate": "librarian", "object": "Michel Courcelles"}
+{"subject": "McGill University", "predicate": "", "object": "colleagues"}
+{"subject": "iFor Research Consortium", "predicate": "", "object": ""}
+{"subject": "Natural Sciences and Engineering Research Council of Canada", "predicate": "", "object": "NSERC"}
+{"subject": "Minist`ere des Ressources Naturelles et de la Faune du Qu´ebec", "predicate": "", "object": "MRNFQ"}
+{"subject": "Conseil de l’Industrie Foresti `ere du Qu ´ebec", "predicate": "", "object": "CIFQ"}
+{"subject": "Natural Resources Canada", "predicate": "", "object": "Canadian Forest Service"}
+{"subject": "Soci´et´e de Protection des Forˆets contre les Insectes et les Maladies du Qu´ebec", "predicate": "", "object": "SOPFIM"}
+{"subject": "Conophthorus coniperda", "predicate": "Col.", "object": "Scolytidae"}
+{"subject": "Beauveria bassiana", "predicate": "(Deuteromycetes, Hyphomycetes)", "object": "control"}
+{"subject": "Dendroctonus valens LeConte", "predicate": "Coleoptera: Scolytidae", "object": ""}
+{"subject": "Ips typographus", "predicate": "(Coeloptera, Scolytidae)", "object": "beetle"}
+{"subject": "US Forest Service", "predicate": "Forest Health Protection and State Forestry Organizations", "object": ""}
+{"subject": "Conophthorus coniperda", "predicate": "", "object": "seed orchards"}
+{"subject": "Beauveria bassiana", "predicate": "entomopathogenic fungus", "object": ""}
+{"subject": "Ips pini", "predicate": "fungal interactions", "object": "a life history of colonizing highly stressed and dead trees"}
+{"subject": "Pinus yunnanenensis", "predicate": "inoculation with Leptographium yunnanense", "object": "a pathogenic fungus associated with Tomicus piniperda"}
+{"subject": "Platypus quercivorus (Murayama)", "predicate": "attacking behavior of host trees and fungi in galleries", "object": "the beetles, water content of host trees"}
+{"subject": "mountain pine beetle", "predicate": "fungal symbionts", "object": "two growth and interactions"}
+{"subject": "Leptographium yunnanense", "predicate": "pathogenic fungus", "object": "associated with Tomicus piniperda"}
+{"subject": "Tomicus piniperda", "predicate": "fungi in galleries", "object": "the beetles"}
+{"subject": "Norway spruce", "predicate": "colonizing", "object": null}
+{"subject": "four blue-stain fungi", "predicate": "associated with aggressive and nonaggressive bark beetles", "object": null}
+{"subject": "Verticicladiella procera", "predicate": "associated with", "object": "insects in the Lake States"}
+{"subject": "Leptographium terebrantis", "predicate": "associated with", "object": "insects in the Lake States"}
+{"subject": "Ophiostoma ips", "predicate": "associated with", "object": "pines in South Africa"}
+{"subject": "Leptographium serpens", "predicate": "associated with", "object": "pines in South Africa"}
+{"subject": "L. lundbergii", "predicate": "associated with", "object": "pines in South Africa"}
+{"subject": "bark beetles", "predicate": "colonyized by", "object": "four blue-stain fungi"}
+{"subject": "insects", "predicate": "colonyized by", "object": "Verticicladiella procera, Leptographium terebrantis"}
+{"subject": "pines in South Africa", "predicate": "infected with", "object": "Ophiostoma ips, Leptographium serpens, L. lundbergii"}
+{"subject": "southern pine beetle", "predicate": "hosts", "object": "symbiotic fungi"}
+{"subject": "mountain pine beetle", "predicate": "hosts", "object": "fungal symbionts"}
+{"subject": "ambrosia beetle", "predicate": "hosts", "object": "Raffaelea lauricola"}
+{"subject": "beetle-attacked trees", "predicate": "provide", "object": "nutrient source for fungal symbionts"}
+{"subject": "lauraceae", "predicate": "is affected by", "object": "invasive bark beetle-fungus complex"}
+{"subject": "bark beetle-fungus complex", "predicate": "threatens", "object": "lauraceae ecosystem"}
+{"subject": "beetle-fungus symbioses", "predicate": "challenge classic paradigm of", "object": "mutualism"}
+{"subject": "symbiotic fungi", "predicate": "interact with beetle hosts", "object": "competitively"}
+{"subject": "beetles", "predicate": "are influenced by", "object": "environmental factors"}
+{"subject": "fungi", "predicate": "influence beetle populations", "object": "through competition and coexistence"}
+{"subject": "southern pine beetle", "predicate": "is affected by", "object": "symbiotic fungi"}
+{"subject": "beetle-attacked trees", "predicate": "provide habitat for fungal symbionts", "object": "beetles"}
+{"subject": "organisms", "predicate": "Dendroctonus frontalis", "object": "southern pine beetle"}
+{"subject": "organisms", "predicate": "Ips typographus", "object": "spruce bark beetle"}
+{"subject": "organisms", "predicate": "black bean aphids", "object": "bacterial symbionts"}
+{"subject": "organisms", "predicate": "Dendroctonus frontalis", "object": "larvae"}
+{"subject": "organisms", "predicate": "Ips typographus", "object": "larvae"}
+{"subject": "organisms", "predicate": "black bean aphids", "object": "amino acid composition"}
+{"subject": "locations", "predicate": "", "object": "southern pine"}
+{"subject": "locations", "predicate": "", "object": "spruce"}
+{"subject": "habitats", "predicate": "", "object": "black bean aphid"}
+{"subject": "interactions", "predicate": "bacterial ﬂora", "object": "pathogenicity"}
+{"subject": "interactions", "predicate": "bacterial symbionts", "object": "amino acid composition"}
+{"subject": "attributes", "predicate": "", "object": "size"}
+{"subject": "attributes", "predicate": "", "object": "color"}
+{"subject": "attributes", "predicate": "", "object": "shape"}
+{"subject": "ecological relationships", "predicate": "bacterial symbionts", "object": "amino acid composition"}
+{"subject": "Scolytus scolytus", "predicate": "had", "object": "three fungal pathogens"}
+{"subject": "insect-borne diseases", "predicate": "could be controlled", "object": "by transgenesis and paratransgenesis"}
+{"subject": "el elm bark beetle", "predicate": "was affected by", "object": "three fungal pathogens"}
+{"subject": "fungal entomopathogens", "predicate": "were studied in a tritrophic context"}
+{"subject": "semi-natural populations of insects", "predicate": "included", "object": "fungal entomopathogens"}
+{"subject": "insect-symbiont system", "predicate": "involved", "object": "complex relationships and biotechnological applications"}
+{"subject": "Scolytus multistriatus", "predicate": "is infected by", "object": "entomogenous fungi"}
+{"subject": "Beauveria bassiana", "predicate": "shows virulence to", "object": "Ips subelongatus larvae"}
+{"subject": "Beauveria bassiana", "predicate": "demonstrates efficacy against", "object": "Ips typographus"}
+{"subject": "Beauveria bassiana", "predicate": "has pathogenic effects on", "object": "forest insect pests"}
+{"subject": "Ips sexdentatus", "predicate": "is affected by", "object": "Beauveria bassiana"}
+{"subject": "sensilla", "predicate": "types", "object": "1"}
+{"subject": "dendrites", "predicate": "number", "object": "[5,8]"}
+{"subject": "Tomicus yunnanensis", "predicate": "studied by scanning electron microscopy and transmission electron microscopy", "object": ""}
+{"subject": "location", "predicate": "recorded on", "object": "club"}
+{"subject": "sensilla trichodea (S.tr.) type 1", "predicate": "number of dendrites", "object": "5"}
+{"subject": "sensilla trichodea (S.tr.) type 2", "predicate": "number of dendrites", "object": "8"}
+{"subject": "T. minor", "predicate": "studied by scanning electron microscopy and transmission electron microscopy", "object": ""}
+{"subject": "location", "predicate": "recorded on", "object": "club"}
+{"subject": "sensilla trichodea (S.tr.) type 1", "predicate": "number of dendrites", "object": "5"}
+{"subject": "sensilla trichodea (S.tr.) type 2", "predicate": "number of dendrites", "object": "8"}
+{"subject": "T. brevipilosus", "predicate": "studied by scanning electron microscopy and transmission electron microscopy", "object": ""}
+{"subject": "species", "predicate": "numbered", "object": "[1,2]"}
+{"subject": "T. yunnanensis", "predicate": "collected from trunks of P. yunnanensis", "object": "December, 2010"}
+{"subject": "T. minor", "predicate": "collected from trunks of P. yunnanensis", "object": "December, 2010"}
+{"subject": "T. brevipilus", "predicate": "collected at Beishan Forest Farm", "object": "Yuxi, Yunnan Province, China"}
+{"subject": "P. yunnanensis", "predicate": "located in", "object": "mountain at Yuezhou town (N25 8140, E1038500), Yunnan Province"}
+{"subject": "Beishan Forest Farm", "predicate": "located in", "object": "Yuxi, Yunnan Province, China"}
+{"subject": "Yuezhou town", "predicate": "located at", "object": "N25 8140, E1038500"}
+{"subject": "Yuxi", "predicate": "located in", "object": "Yunnan Province, China"}
+{"subject": "China", "predicate": "located in", "object": null}
+{"subject": "antennal-sensilla", "predicate": "structure of", "object": "T. yunnanensis, T. minor, and T. brevipilus"}
+{"subject": "antennal sensilla", "predicate": "measured using ZWCAD software", "object": "v. 2012; ZWCAD sorftware, Guangzhou, China"}
+{"subject": "sensilla type", "predicate": "was counted", "object": null}
+{"subject": "width", "predicate": "was measured at the middle of the sensilla", "object": null}
+{"subject": "antennal sensilla", "predicate": "were compared to each other within species", "object": null}
+{"subject": "antennal sensilla", "predicate": "were compared to each other among species", "object": null}
+{"subject": "number of sensilla", "predicate": "was counted", "object": null}
+{"subject": "size", "predicate": "used a univariate ANOVA followed by least significant differences for multiple comparisons", "object": null}
+{"subject": "sensilla", "predicate": "were analyzed using the Mann–WhitneyU test", "object": "Gao et al., 2007"}
+{"subject": "species", "predicate": "consisted of eight females and eight males each", "object": null}
+{"subject": "antennae", "predicate": "have similar morphology with an expanded scape, a narrow, six subsegmented funicle, and a long oval club", "object": "the three species"}
+{"subject": "sensilla", "predicate": "occurred on the distal three-fourths of the club and were organized into three roughly-parallel sensory bands that completely encircled the club", "object": "the club"}
+{"subject": "glandular pores", "predicate": "were located on the surface of the club", "object": "the club"}
+{"subject": "antennae", "predicate": "was significantly longer than that ofT. brevipilosus and T. minor", "object": "the length of antennae in T. yunnanensis, T. brevipilosus, and T. minor"}
+{"subject": "species", "predicate": "have similar morphology with an expanded scape, a narrow, six subsegmented funicle, and a long oval club", "object": "T. yunnanensis, T. minor, and T. brevipilosus"}
+{"subject": "T. yunnanensis", "predicate": "had", "object": "the longest club (250.8 lm)"}
+{"subject": "T. yunnanensis", "predicate": "had", "object": "a notably longer scape than the other two species"}
+{"subject": "T. brevipilosus", "predicate": "had", "object": "a club length of 226.7 lm"}
+{"subject": "T. minor", "predicate": "had", "object": "a club length of 211.1 lm"}
+{"subject": "male T. yunnanensis", "predicate": "had an antennal length of", "object": "749.3lm"}
+{"subject": "female T. yunnanensis", "predicate": "had an antennal length of", "object": "817.8 lm"}
+{"subject": "T. brevipilosus", "predicate": "showed the most sensilla on subsegment 2 (average of 11.5 per antenna)"}
+{"subject": "T. brevipilosus", "predicate": "showed the most sensilla on subsegment 3 (average of 69.3)"}
+{"subject": "T. yunnanensis", "predicate": "showed the most sensilla on subsegment 2 and 3"}
+{"subject": "T. minor", "predicate": "showed the fewest sensilla on each subsegment", "object": "3 and 4"}
+{"subject": "T. yunnanensis", "predicate": "had more sensilla than T. minor", "object": "615.4 (Table 2)"}
+{"subject": "S.tr.", "predicate": "categorized as two types", "object": null}
+{"subject": "S.ch.", "predicate": "categorized as two types", "object": null}
+{"subject": "T.p.s.b.", "predicate": "categorized as one type", "object": null}
+{"subject": "B.b.", "predicate": "categorized as one type", "object": null}
+{"subject": "Fl.c.", "predicate": "categorized as one type", "object": null}
+{"subject": "S.f.", "predicate": "found on the antennae of female T. yunnanensis", "object": "three"}
+{"subject": "T. brevipilous", "predicate": "had essentially the same morphological sensilla types and ultrastructures as T. yunnanensis, T. minor", "object": null}
+{"subject": "females of T. yunnanensis, T. minor, and T. brevipilous", "predicate": "had the same morphological sensilla types and ultrastructures", "object": null}
+{"subject": "the funicle", "predicate": "bore only a few S.ch.2 and B.b.", "object": null}
+{"subject": "the scape", "predicate": "bore only a few S.ch.2 and B.b.", "object": null}
+{"subject": "T. yunnanensis", "predicate": "has antennae of female", "object": "femaleT. yunnanensis"}
+{"subject": "S.ch.2", "predicate": "is present on the funicle and scape", "object": "a few"}
+{"subject": "B.b.", "predicate": "does not have sensilla on the club", "object": "all types"}
+{"subject": "club", "predicate": "has sensilla with all types but B.b.", "object": ""}
+{"subject": "third, fourth, fifth, and sixth sub-segments of the funicle", "predicate": "have evenly distributed sensilla on the club and third, fourth, fifth, and sixth sub-segments", "object": "the dorsal and ventral sides"}
+{"subject": "sensilla", "predicate": "can be estimated using SEM images of one side of the funicle", "object": "the number of sensilla"}
+{"subject": "S.ch.2", "predicate": "has dense sensilla on the dorsum of the scape", "object": "some"}
+{"subject": "scape", "predicate": "has dense sensilla on the dorsum", "object": "some S.ch.2"}
+{"subject": "table", "predicate": "contains summarized sizes and numbers of eight antennal sensilla types in both sexes", "object": "Table 3"}
+{"subject": "Sensilla Trichodea 1", "predicate": "is concentrated at the apex of the club and at the edges of sensory bands", "object": "the three species"}
+{"subject": "T. yunnanensis", "predicate": "has sensilla of type S.tr.1", "object": "one"}
+{"subject": "club", "predicate": "has a concentrated S.tr.1 type", "object": "S.tr.1type"}
+{"subject": "edges of sensory bands", "predicate": "have a concentrated S.tr.1 type", "object": "the three species"}
+{"subject": "sensory bands", "predicate": "have a concentrated S.tr.1 type", "object": "the three species"}
+{"subject": "species", "predicate": "have 26.8–29 hairs per antenna", "object": "three species"}
+{"subject": "antennal sensilla types", "predicate": "have 26.8–29 hairs per antenna", "object": "both sexes"}
+{"subject": "Table 3", "predicate": "contains summarized sizes and numbers of eight antennal sensilla types in both sexes", "object": ""}
+{"subject": "Sensilla Trichodea 1", "predicate": "has a pronounced length, longitudinal grooved surface, and apical pore", "object": "characteristics"}
+{"subject": "length", "predicate": "is pronounced", "object": "length"}
+{"subject": "surface", "predicate": "has a longitudinal grooved surface", "object": "a"}
+{"subject": "pore", "predicate": "has an apical pore", "object": "apical pore"}
+{"subject": "Sensilla Trichodea 1", "predicate": "is characterized by their pronounced length, longitudinal grooved surface, and apical pore", "object": "characteristics"}
+{"subject": "species", "predicate": "have a characteristic of S.tr.1 type", "object": "one"}
+{"subject": "Sensilla Trichodea 1", "predicate": "has a characteristic of length, longitudinal grooved surface, and apical pore", "object": "characteristics"}
+{"subject": "Sensilla Basiconica", "predicate": "were", "object": "cylindrical for most of their lengths and tapered sharply to points"}
+{"subject": "Sensilla Basiconica", "predicate": "had", "object": "an average of 339.5–394.5 bristles per antenna at the three sensory bands and at the club apex"}
+{"subject": "cuticular walls", "predicate": "were", "object": "about 0.12lm thick and penetrated by 110–130 pores/lm"}
+{"subject": "pores", "predicate": "were arranged in parallel rows along the longitudinal axis of the sensilla", "object": "30 nm in length and 10 nm in width"}
+{"subject": "cuticular walls", "predicate": "contained", "object": "distinct pore kettles"}
+{"subject": "sensilla", "predicate": "were usually innervated by", "object": "10–14 dendrites"}
+{"subject": "Sensilla Basiconica", "predicate": "were", "object": "10.6–15.5lm long and 1.2–1.5 lm wide"}
+{"subject": "T.p.s.b.", "predicate": "had lengths similar to", "object": "Fl.c"}
+{"subject": "Club subsegment 4", "predicate": "contained", "object": "double-walled pegs"}
+{"subject": "three sensory bands", "predicate": "containing", "object": "double-walled pegs scattered"}
+{"subject": "club subsegment 4", "predicate": "had lengths similar to", "object": "T.p.s.b."}
+{"subject": "Fl.c", "predicate": "were nonsocketed", "object": "peggs"}
+{"subject": "Club subsegment 4", "predicate": "had", "object": "longitudinal pores"}
+{"subject": "sensillum", "predicate": "was slightly swollen but tapered to a blunt tip", "object": ""}
+{"subject": "club subsegment 3", "predicate": "had only sparse sensilla", "object": "Fl.c"}
+{"subject": "three sensory bands", "predicate": "containing", "object": "double-walled pegs scattered"}
+{"subject": "species of Tomicusa", "predicate": "had", "object": "longitudinal pores"}
+{"subject": "Sensilla trichodea", "predicate": "morphology showing the socket(square)", "object": "(B1)"}
+{"subject": "Sensilla trichodea", "predicate": "multiporous surface (arrow)", "object": "(B2)"}
+{"subject": "Sensilla trichodea", "predicate": "transverse section showing sparse pores on the wall and eight dendritic branches with tubes (arrow).", "object": "(B3)"}
+{"subject": "Sensilla chaetica", "predicate": "morphology (square)", "object": "(C1)"}
+{"subject": "Sensilla chaetica", "predicate": "grooved surface", "object": "(C2)"}
+{"subject": "Sensilla chaetica", "predicate": "obvious socket and exocrine gland", "object": "(C3)"}
+{"subject": "Sensilla chaetica", "predicate": "transverse section showing thick wall and no dendrites in the lumen.", "object": "(C4)"}
+{"subject": "Sensilla chaetica", "predicate": "longitudinal sections", "object": "(C5)"}
+{"subject": "Sensilla chaetica", "predicate": "grooved surface", "object": "(D1)"}
+{"subject": "Sensilla chaetica", "predicate": "unilateral branch", "object": "(D2)"}
+{"subject": "Sensilla chaetica", "predicate": "two saw-teeth side by side (arrow)", "object": "(D3)"}
+{"subject": "Sensilla chaetica", "predicate": "oblate cross-section showing thick wall and no dendrites in the lumen.", "object": "(D4)"}
+{"subject": "Cuticular wall", "predicate": "CW", "object": "Sensilla chaetica"}
+{"subject": "Dendrite", "predicate": "D", "object": "Sensilla chaetica"}
+{"subject": "Dendrite sheath", "predicate": "DS", "object": "Sensilla chaetica"}
+{"subject": "Pore", "predicate": "P", "object": "Sensilla chaetica"}
+{"subject": "Sensillum lymph lumen", "predicate": "SL", "object": "Sensilla chaetica"}
+{"subject": "T. yunnanensis", "predicate": "varied remarkably in abundance of S.tr.2", "object": "S.ch.2, andS.b"}
+{"subject": "T. yunnanensis", "predicate": "was the most numerous", "object": "145.3 per antenna"}
+{"subject": "T. minor", "predicate": "varied remarkably in abundance of S.tr.2", "object": "S.ch.2, andS.b"}
+{"subject": "T. minor", "predicate": "was the least numerous", "object": "103.9 per antenna"}
+{"subject": "Fungi (S.tr.2, S.ch.2, and S.b)", "predicate": "were abundant", "object": "in T. yunnanensis"}
+{"subject": "T. yunnanensis", "predicate": "and the least", "object": "in T. minor"}
+{"subject": "Organisms (S.tr.2, S.ch.2, and S.b)", "predicate": "were abundant", "object": "in T. yunnanensis"}
+{"subject": "T. minor", "predicate": "and the least", "object": "in T. brevipilosus"}
+{"subject": "Sensilla (on all three parts of the antenna)", "predicate": "can be distributed", "object": "on all the three parts of the antenna"}
+{"subject": "Antennae of T. yunnanensis, T. minor, and T. brevipilosus", "predicate": "have similar morphology of the scape, funicle, and club", "object": ""}
+{"subject": "Antennal Morphology", "predicate": "in every antenna of these bark beetles", "object": "the scape and funicle appear to have less than 45 sensilla"}
+{"subject": "Sensilla (on the distal segments)", "predicate": "their density tends to be signiﬁcantly higher", "object": "signiﬁcantly higher on the distal segments"}
+{"subject": "Antennal Morphology", "predicate": "the club bears more than 615 sensilla belonging to seven different types", "object": "belonging to seven different types"}
+{"subject": "genus Tomicus", "predicate": "share", "object": "similar and special antennal sensilla types compared with other genera of the subfamily Scolytinae"}
+{"subject": "T.p.s.b.", "predicate": "were not recorded in", "object": "other bark beetles at present"}
+{"subject": "genus Tomicus", "predicate": "share", "object": "special antennal sensilla types compared with other genera of the subfamily Scolytinae"}
+{"subject": "genus Tomicus", "predicate": "have", "object": "eight common antennal sensilla types on females and males"}
+{"subject": "S.tr.1", "predicate": "resembled", "object": "Ips paraconfusus Lanier"}
+{"subject": "Dendroctonus valens LeConte", "predicate": "described", "object": "The S.tr.1"}
+{"subject": "S.tr.2", "predicate": "have also been identified", "object": "Dendroctonus frontalis Zimmerman"}
+{"subject": "Ips sexdentatus Boerner", "predicate": "identified as", "object": "The S.tr.2"}
+{"subject": "I. typographus L.", "predicate": "identified as", "object": "The S.tr.2"}
+{"subject": "D. ponderosae Hopkins", "predicate": "identified as", "object": "The S.tr.2"}
+{"subject": "S.b.", "predicate": "had more cuticular pores than", "object": "S.tr.2"}
+{"subject": "phero-mones", "predicate": "respond well to", "object": "S.tr."}
+{"subject": "other odorants", "predicate": "poorly respond to", "object": "S.tr."}
+{"subject": "S.ch.", "predicate": "were", "object": "the same type of sensilla"}
+{"subject": "Microplitis pallidipes Szepligeti", "predicate": "were", "object": "the same type of sensilla"}
+{"subject": "M. croceipes Cresson (Hymenoptera: Braconidae)", "predicate": "were", "object": "the same type of sensilla"}
+{"subject": "Ips pini", "predicate": "were", "object": "the same type of sensilla"}
+{"subject": "Tomicus species", "predicate": "were located mainly along the edges of three sensory bands on the club", "object": null}
+{"subject": "S.ch.", "predicate": "were", "object": "commonly seen in other insects"}
+{"subject": "S.ch.1", "predicate": "protect", "object": "S.b., T.p.s.b., Fl.c., and S.tr.2"}
+{"subject": "S.ch.1", "predicate": "were longer", "object": "those sensilla"}
+{"subject": "S.ch.1", "predicate": "were stronger", "object": "those sensilla"}
+{"subject": "S.ch.1", "predicate": "have a thigmotactic function", "object": ""}
+{"subject": "S.ch.2", "predicate": "have a distinctive shape and location", "object": ""}
+{"subject": "S.ch.2", "predicate": "are branched", "object": "the description of sensilla"}
+{"subject": "Typodendron lineatum Olivier (Coleoptera: Scolytidae)", "predicate": "suggested to have mechanoreceptor functions", "object": ""}
+{"subject": "I. paraconfusus(Borden and Wood, 1966)", "predicate": "suggested to have mechanoreceptor functions", "object": ""}
+{"subject": "Scolytus multistriatus Marsham (Coleoptera: Curculionidae)", "predicate": "suggested to have mechanoreceptor functions", "object": ""}
+{"subject": "the substrate", "predicate": "perform the role of contact mechanoreception with respect to the surroundings", "object": " positioning their antenna"}
+{"subject": "S.ch.2", "predicate": "may perform the role of contact mechanoreception with respect to the surroundings", "object": "positioning their antenna"}
+{"subject": "S.b.i", "predicate": "have", "object": "multiporous chemosensilla with pitted surfaces (MPP)"}
+{"subject": "pores", "predicate": "are denser than", "object": "36–41 pores/lm2"}
+{"subject": "D. ponderosae", "predicate": "have", "object": "similar sensory bands to S.b.i"}
+{"subject": "I. sex-dentatus", "predicate": "have", "object": "similar sensory bands to S.b.i"}
+{"subject": "I. typographus", "predicate": "have", "object": "similar sensory bands to S.b.i"}
+{"subject": "S.b.i", "predicate": "function as", "object": "olfactory receptors"}
+{"subject": "D. frontalis", "predicate": "show phasic-tonic responses in", "object": "neurons associated with chemosensilla"}
+{"subject": "I. typographus", "predicate": "studied electrophysiologically", "object": "olfaffective receptor cells"}
+{"subject": "S.tr.2", "predicate": "assumed to be a morphological variant of", "object": "sensillum"}
+{"subject": "T. yunnanensis", "predicate": "had a multiporous surface and furcated at the middle", "object": ""}
+{"subject": "S.tr.2", "predicate": "", "object": "morphology (although TEM images were lacking)"}
+{"subject": "T. minor", "predicate": "", "object": ""}
+{"subject": "T. brevipilosus", "predicate": "", "object": ""}
+{"subject": "insects", "predicate": "rely on multiple, distinct organs for olfaction", "object": ""}
+{"subject": "organs", "predicate": "differ in location and numerical complexity, in the receptors that they express", "object": "and in the targets of their neurons within the central nervous system"}
+{"subject": "mouthparts", "predicate": "", "object": "large numbers of chemosensilla"}
+{"subject": "tarsi", "predicate": "", "object": "large numbers of chemosensilla"}
+{"subject": "T. yunnanensis", "predicate": "has", "object": "antennal sensilla"}
+{"subject": "T. minor", "predicate": "has", "object": "antennal sensilla"}
+{"subject": "T. brevipilosus", "predicate": "has", "object": "antennal sensilla"}
+{"subject": "Phyllotetra cruciferae", "predicate": "shows", "object": "no sexual dimorphism in the relative number of antennal sensilla"}
+{"subject": "Psyloides punctulata", "predicate": "shows", "object": "no sexual dimorphism in the relative number of antennal sensilla"}
+{"subject": "Epitrix cucumeris", "predicate": "shows", "object": "no sexual dimorphism in the relative number of antennal sensilla"}
+{"subject": "Psylloides afﬁnis", "predicate": "shows", "object": "no sexual dimorphism in the relative number of antennal sensilla"}
+{"subject": "D. valens", "predicate": "shows", "object": "no sexual dimorphism in the relative number of antennal sensilla"}
+{"subject": "T. yunnanensis", "predicate": "beetles captured on P. yunnanensis bolts", "object": "males"}
+{"subject": "P. yunnanensis bolts", "predicate": "beetles captured on", "object": "only males"}
+{"subject": "P. yunnanensis bolts", "predicate": "beetles captured on", "object": "only females"}
+{"subject": "T. minor", "predicate": "sex ratio of T. yunnanensis, T. minor, and T. brevipilosus beetles", "object": "C241:1"}
+{"subject": "Sweden", "predicate": "field tests of T. minor in", "object": "traps containing both a log and some monoterpene alcohols"}
+{"subject": "T. piniperda", "predicate": "responses to a", "object": "log"}
+{"subject": "antennal sensilla", "predicate": "possess the same types and quantities of", "object": "female and male"}
+{"subject": "species", "predicate": "differed", "object": "lengths of the scape, funicle, and entire antenna"}
+{"subject": "antennae", "predicate": "differed", "object": "in density of sensilla on subsegments 2, 3, and 4 of the club"}
+{"subject": "T. yunnanensis", "predicate": "showed distinctly fewer", "object": "sensilla on each of the subsegments"}
+{"subject": "T. brevipilosus", "predicate": "showed distinctly fewer", "object": "sensilla on each of the subsegments"}
+{"subject": "T. yunnanensis", "predicate": "are more closely related to", "object": "T. brevipilosus"}
+{"subject": "size", "predicate": "differed signiﬁcantly", "object": "among the three species"}
+{"subject": "S.tr.2", "predicate": "was", "object": "mainly"}
+{"subject": "T. yunnanensis", "predicate": "is", "object": "more closely related to T. brevipilosus"}
+{"subject": "Li et al.", "predicate": "supported the conclusion that", "object": "the genetic distance between T. yunnanensis and T. brevipilosus was the closest among the three species"}
+{"subject": "T. brevipilosus", "predicate": "is", "object": "more closely related to T. destruens"}
+{"subject": "S.b.", "predicate": "was", "object": "a few"}
+{"subject": "Kohlmayr et al.", "predicate": "suggested separating", "object": "T. pini-perda, T. minor and T. destruens Wollaston by the density of setae occurring on the surface of subsegment 3 of the antennal club"}
+{"subject": "T. minor", "predicate": "has", "object": "only sparse sensilla"}
+{"subject": "T. piniperda", "predicate": "has", "object": "a few sensilla"}
+{"subject": "T. destruens", "predicate": "has", "object": "many more sensilla"}
+{"subject": "T. yunnanensis", "predicate": "is similar to T. piniperda in the distribution of sensilla on the subsegment 3"}
+{"subject": "T. brevipilosus", "predicate": "is similar to T. destruens"}
+{"subject": "Faccoli", "predicate": "found a new morphological difference in", "object": "T. piniperda and T. destruens"}
+{"subject": "T. pini-perda", "predicate": "has", "object": "the No. 1 sensory band with two different types of sensilla, one"}
+{"subject": "T. piniperda", "predicate": "had", "object": "two different types of sensilla"}
+{"subject": "T. destruens", "predicate": "had", "object": "only short sensilla"}
+{"subject": "S.ch.1", "predicate": "may be", "object": "the long sensilla"}
+{"subject": "S.b.", "predicate": "may be", "object": "the short sensilla"}
+{"subject": "T. minor", "predicate": "was attractive to", "object": "trans-verbenol"}
+{"subject": "T. pini-perda", "predicate": "was hardly or not at all attracted to", "object": "trans-verbenol"}
+{"subject": "T. yunnanensis", "predicate": "has", "object": "the same sensilla types as T. minor and T. brevipilosus"}
+{"subject": "S.tr .1", "predicate": "among species are likely to result in different behaviors"}
+{"subject": "S.tr .2", "predicate": "among species are likely to result in different behaviors"}
+{"subject": "S.ch.2", "predicate": "among species are likely to result in different behaviors"}
+{"subject": "S.b.", "predicate": "among species are likely to result in different behaviors"}
+{"subject": "P. yunnanensis", "predicate": "revealed", "object": "1S-(2)-b-pinene, 1R-(1)-a-pinene and S-(2)-a-pinene"}
+{"subject": "T. yunnanensis", "predicate": "elicited", "object": "antennal responses"}
+{"subject": "T. minor", "predicate": "elicited", "object": "antennal responses"}
+{"subject": "T. brevipilosus", "predicate": "elicited", "object": "antennal responses"}
+{"subject": "T. minor", "predicate": "had a response to", "object": "S-(2)-a-pinene"}
+{"subject": "P. yunnanensis", "predicate": "showed", "object": "the proportion of each species captured in traps baited with same lures was conspicuously different"}
+{"subject": "P. yunnanensis", "predicate": "coloniized by", "object": "T. yunnanensis and T. brevipilosus"}
+{"subject": "T. brevipilosus", "predicate": "mainly attack the", "object": "mid-upper trunk"}
+{"subject": "T. minor", "predicate": "mainly attack the", "object": "lower trunk"}
+{"subject": "S.tr.1", "predicate": "have an effect on", "object": "positional localization"}
+{"subject": "S.tr.2", "predicate": "have an effect on", "object": "mate selection"}
+{"subject": "S.ch.2", "predicate": "have an effect on", "object": "positional localization"}
+{"subject": "S.b.", "predicate": "have an effect on", "object": "positional localization"}
+{"subject": "S.tr.1", "predicate": "had distinct exocrine glands at the bases of"}
+{"subject": "S.tr.2", "predicate": "had distinct exocrine glands at the bases of"}
+{"subject": "S.ch.1", "predicate": "had distinct exocrine glands at the bases of"}
+{"subject": "S.ch.2", "predicate": "had distinct exocrine glands at the bases of"}
+{"subject": "Psylliodes chrysocephala L.", "predicate": "has been published data on"}
+{"subject": "Platynus dorsalisPontoppidan", "predicate": "has been published data on"}
+{"subject": "D. valens", "predicate": "has been published data on"}
+{"subject": "exocrine glands", "predicate": "are directly related to their function"}
+{"subject": "size of exocrine glands", "predicate": "is directly related to the function"}
+{"subject": "location of exocrine glands", "predicate": "is directly related to the function"}
+{"subject": "Ips confuses", "predicate": "Antennal morphology", "object": "was studied by"}
+{"subject": "Ips confuses", "predicate": "receptors and olfactory response to male sex attractant", "object": "was investigated in the laboratory"}
+{"subject": "Psylliodes chrysocephala", "predicate": "Antennal glands", "object": "were examined"}
+{"subject": "Ips confuses", "predicate": "sex attractant", "object": "attracted"}
+{"subject": "Ips confuses", "predicate": "Coleoptera: Scolytidae", "object": "belonged to"}
+{"subject": "Borg TK, Norris DM", "predicate": "ultrastructure of sensory receptors on the", "object": "was studied"}
+{"subject": "Borden JH", "predicate": "Antennal morphology of Ips confuses (Coleoptera: Scolytidae)", "object": "was described"}
+{"subject": "Scolytus multistriatus", "predicate": "has sensory receptors", "object": "ultrastructure on the antennae"}
+{"subject": "Dendroctonus valens", "predicate": "has sensilla ultrastructure", "object": "antennal morphology"}
+{"subject": "Scolytus multistriatus", "predicate": "is a species of Coleoptera", "object": "Curculionidae, Seolytinae"}
+{"subject": "Dendroctonus valens", "predicate": "is an invasive forest pest in China", "object": "China"}
+{"subject": "Scolytus multistriatus", "predicate": "has antennae with sensory receptors", "object": "ultrastructure"}
+{"subject": "Dendroctonus valens", "predicate": "has antennal morphology", "object": " ultrastructure"}
+{"subject": "Scolytus multistriatus", "predicate": "is found in the laboratory", "object": "Ann Entomol Soc Am 59:253–261"}
+{"subject": "Dendroctonus valens", "predicate": "has chemical ecology properties", "object": "bark beetles"}
+{"subject": "Tomicus", "predicate": "Coleopetera", "object": "Scolytidae"}
+{"subject": "Europe", "predicate": "regional scope", "object": null}
+{"subject": "China", "predicate": "regional scope", "object": null}
+{"subject": "Tomicus piniperda", "predicate": "attacked by", "object": "pine shoots"}
+{"subject": "T. minor", "predicate": "attacked by", "object": "pine shoots"}
+{"subject": "Tomicus armandii", "predicate": "discovered in", "object": "China"}
+{"subject": "Ceratosolen solmsi marchali", "predicate": "belonged to", "object": "Hymenoptera"}
+{"subject": "T. minor", "predicate": "differently attracted to", "object": "semiochemicals from sympatric pine shoot beetles"}
+{"subject": "Europe", "predicate": "range of", "object": "Tomicus piniperda and T. minor"}
+{"subject": "Tomicus piniperda", "predicate": "Scanning electron microscope observation", "object": "antenna"}
+{"subject": "Tomicus minor", "predicate": "Impacts on distribution and reproduction", "object": "Tomicus piniperda (Col., Scolytidae) on the trunk of living Pinus yunnanensis trees"}
+{"subject": "Coleophora obducta", "predicate": "Ultrastructural observations", "object": "antenmal sensilla"}
+{"subject": "Dendroctonus ponderosae", "predicate": "principles of insect physiology mentioned", "object": "insect physiology"}
+{"subject": "Pinus yunnanensis", "predicate": "impacts on Tomicus minor reproduction", "object": "trunk"}
+{"subject": "Tomicus piniperda", "predicate": "bionomics of", "object": "Tomicus minor (Hartig) (Coleoptera: Scolytidae)"}
+{"subject": "Xyleborus ferrugineus", "predicate": "receives", "object": "protein equivalent"}
+{"subject": "mosquito", "predicate": "releases", "object": "egg-developmental neuro-secretory hormone (EDNH)"}
+{"subject": "anautogenous mosquito", "predicate": "produces", "object": "ecdysone"}
+{"subject": "beetles", "predicate": "were fed", "object": "two diets"}
+{"subject": "beetles", "predicate": "were observed", "object": "in darkness"}
+{"subject": "sections of beetles", "predicate": "were stained with", "object": "alum haematoxylin and eosin"}
+{"subject": "sections of beetles", "predicate": "were viewed", "object": "with a JEM-7 electron microscope at 60 kV"}
+{"subject": "ovaries of beetles", "predicate": "were processed", "object": "as previously described"}
+{"subject": "ultrathin sections of ovaries", "predicate": "were stained by", "object": "uranyl acetate and lead citrate"}
+{"subject": "ecdysone levels", "predicate": "were quantified by", "object": "radioimmunoassay (RIA)"}
+{"subject": "ecdysone antiserum", "predicate": "was a generous gift from", "object": "Prof. L. I. Gilbert, Department of Zoology, University of North Carolina, Chapel Hill, NC"}
+{"subject": "ecdysone levels", "predicate": "were quantified with", "object": "[a- 23, w3H( N)] ecd ysone (6 3.5 Ciimmole)"}
+{"subject": "organisms (beetles)", "predicate": "were observed", "object": "in darkness"}
+{"subject": "locations (darkness)", "predicate": "were observed in", "object": "by beetles"}
+{"subject": "follicular cells", "predicate": "contain", "object": "electron-dense material(s)"}
+{"subject": "follicular cells", "predicate": "have", "object": "Golgi apparatus"}
+{"subject": "follicular cells", "predicate": "possess", "object": "free ribosomes"}
+{"subject": "follicular cells", "predicate": "appear", "object": "rough-surfaced endoplasmic reticulum (RER)"}
+{"subject": "mitochondria", "predicate": "are", "object": "spherical"}
+{"subject": "mitochondria", "predicate": "are", "object": "rod-shaped"}
+{"subject": "zone of microvilli", "predicate": "is formed at", "object": "interface between oolemma and follicular cell membrane"}
+{"subject": "zone of microvilli", "predicate": "has no preferred orientation; thus", "object": "the microvilli are cut at many angles"}
+{"subject": "zone", "predicate": "is next to", "object": "microvilli"}
+{"subject": "mitochondria", "predicate": "have a very electron- dense matrix", "object": null}
+{"subject": "oocyte", "predicate": "are densely packed with free ribosomes", "object": null}
+{"subject": "lipid spheres", "predicate": "have not been found at this stage", "object": null}
+{"subject": "follicular cells", "predicate": "becomes very densely packed with parallel-oriented RER", "object": "apical portion"}
+{"subject": "Golgi with vesicles", "predicate": "are closely associated with the RER", "object": null}
+{"subject": "RER", "predicate": "are continuous circles", "object": null}
+{"subject": "electron-dense bodies", "predicate": "are closely associated with the RER", "object": null}
+{"subject": "interfollicular cell space", "predicate": "appears free of electron-dense material", "object": "previously described"}
+{"subject": "basal portion", "predicate": "is filled with electron-dense material", "object": "this stage"}
+{"subject": "secretion vesicles", "predicate": "are especially abundant in the apical portion", "object": "cytoplasm of follicular cells"}
+{"subject": "vesicles", "predicate": "are", "object": "many large secretion vesicles"}
+{"subject": "cells", "predicate": "have", "object": "many large secretion vesicles in the cytoplasm"}
+{"subject": "cells", "predicate": "are especially abundant in", "object": "the apical portion of the cells"}
+{"subject": "length", "predicate": "ranges from", "object": "430 nm to 1.04 μm with a mean of 565 nm"}
+{"subject": "matrix", "predicate": "is membrane-bounded with", "object": "a fiberlike electron-dense matrix"}
+{"subject": "crystals", "predicate": "are", "object": "a few peripheral needlelike crystals"}
+{"subject": "zone of microvilli", "predicate": "is filled with", "object": "electron-dense material at this stage"}
+{"subject": "oocyte", "predicate": "has many small vesicles, filled", "object": "with electron-dense material, located near the zone of microvilli"}
+{"subject": "cortex of the oocyte", "predicate": "appear first in", "object": "large numbers of lipid and yolk spheres"}
+{"subject": "oocyte", "predicate": "subsequently spreads throughout", "object": "the cortex of the oocyte"}
+{"subject": "mitochondria", "predicate": "have many mitochondria with an electron-dense matrix, and some short RER"}
+{"subject": "ribosomes", "predicate": "are densely packed", "object": "ribosomes"}
+{"subject": "oolemma", "predicate": "is in contact with", "object": "secretory vesicle (SV)"}
+{"subject": "oolemma", "predicate": "", "object": ""}
+{"subject": "needlelike crystal structures (NL)", "predicate": "are at the periphery of", "object": "secretory vesicle (SV)"}
+{"subject": "secretory vesicle (SV)", "predicate": "is membrane-bound", "object": ""}
+{"subject": "X. ferrugineus", "predicate": "may be classified as pseudotelotrophic", "object": ""}
+{"subject": "Leptinotarsa decemlineata", "predicate": "", "object": "reported for"}
+{"subject": "oocyte development", "predicate": "distinguished seven stages of", "object": "X. ferrugineus"}
+{"subject": "oocyte development", "predicate": "", "object": "divided into previtellogenic and vitello-genic stages"}
+{"subject": "Aedes aegypti", "predicate": "the basement lamina was reported to serve as a coarse mechanical filter, freely", "object": ""}
+{"subject": "X. ferrugineus", "predicate": "In Aedes aegypti (Anderson and Spielman, Tl), the basement lamina was reported to serve as a coarse mechanical filter, freely", "object": ""}
+{"subject": "Aedes aegypti", "predicate": "serve as a coarse mechanical filter", "object": "particles with molecular weights ranging from 12,000 to 500,000 daltons and dimensions less than 110 A."}
+{"subject": "de Loof's workers", "predicate": "found that ferritin particles can pass through the ovariole wall without being packed in vesicles", "object": "no specialized mechanism for the absorption of hemolymph proteins"}
+{"subject": "Colorado potato beetle", "predicate": "has no specialized mechanism for the absorption of hemolymph proteins", "object": null}
+{"subject": "X. ferrugineus", "predicate": "possesses a basement lamina in follicle cells", "object": null}
+{"subject": "Hyulophora cecropia", "predicate": "enlarged", "object": "inter-follicular cell spaces"}
+{"subject": "oocyte", "predicate": "vitellogenins reach", "object": "surface"}
+{"subject": "Rhodnius prolixus", "predicate": "extraovarian proteins demonstrated", "object": "Wigglesworth ('43)"}
+{"subject": "arthropods", "predicate": "blood-sucking", "object": "other blood-sucking arthropods"}
+{"subject": "oocyte", "predicate": "vitellogenins uptake route", "object": "interfollicular cell spaces, brush border (peri-oocytic space), yolk spheres"}
+{"subject": "insects", "predicate": "confirmed", "object": "ex-trarovarian proteins demonstration"}
+{"subject": "King and Aggarwal", "predicate": "reviewed", "object": "ex-trarovarian proteins"}
+{"subject": "Engelmann", "predicate": "reviewed", "object": "ex-trarovarian proteins"}
+{"subject": "Hagedorn and Kunkel", "predicate": "reviewed", "object": "ex-trarovarian proteins"}
+{"subject": "Telfer and Smith", "predicate": "reviewed", "object": "ex-trarovarian proteins"}
+{"subject": "vitellogenins", "predicate": "uptake route", "object": "interfollicular cell spaces, brush border (peri-oocytic space), yolk spheres"}
+{"subject": "Hyulophora cecropia", "predicate": "channels for vitellogenins", "object": "surface of oocyte"}
+{"subject": "Wigglesworth", "predicate": "demonstrated extraovarian proteins in oocyte", "object": "Rhodnius prolixus"}
+{"subject": "oocyte", "predicate": "association with", "object": "follicle cells"}
+{"subject": "oocyte", "predicate": "uptake of hemolymph proteins", "object": "None"}
+{"subject": "oocyte", "predicate": "synthesis of protein by the follicle cells", "object": "None"}
+{"subject": "X. ferrugineus", "predicate": "reproduction", "object": "females on sorbic-acid-containing diet"}
+{"subject": "Colorado beetle", "predicate": "lysosomelike bodies reported in", "object": "previtellogenic oocyte"}
+{"subject": "follicle cells", "predicate": "association with", "object": "vitellogenic oocyte"}
+{"subject": "beetles", "predicate": "diet containing sorbic acid", "object": "fed on"}
+{"subject": "X. ferrugineus", "predicate": "reproduce", "object": "false"}
+{"subject": "diet", "predicate": "contain", "object": "sorbic-acid"}
+{"subject": "ovaries", "predicate": "develop", "object": "beyond the previtellogenic stage"}
+{"subject": "F. solani", "predicate": "grow", "object": "inhibits"}
+{"subject": "fungus-produced nutrients", "predicate": "required for oocyte maturation", "object": "sterol (Chu et al., '70)"}
+{"subject": "fungus-produced nutrients", "predicate": "required for oocyte maturation", "object": "essential amino acids (Kok and Norris, '72)"}
+{"subject": "ovarian cycle", "predicate": "occur", "object": "marked increase in ec-dysteroid titer"}
+{"subject": "diet medium", "predicate": "support", "object": "nutritional requirements of the adult female beetle"}
+{"subject": "adult female beetle", "predicate": "require", "object": "specifically nutrients for oocyte maturation"}
+{"subject": "vitellogenesis", "predicate": "is controlled by", "object": "juvenile hormones"}
+{"subject": "fat body", "predicate": "synthesizes", "object": "vitellogenin"}
+{"subject": "ovary", "predicate": "allows the passage of vitellogenin from the hemolymph into", "object": "the oocyte"}
+{"subject": "juvenile hormone", "predicate": "induces large intercellular spaces between follicle cells which allow the passage of vitellogenin", "object": "from the hemolymph into the oocyte"}
+{"subject": "ecdysone", "predicate": "induces vitellogenin synthesis in", "object": "Drosophila"}
+{"subject": "juvenile hormones", "predicate": "are often identified as key molecules which control", "object": "vitellogenin synthesis"}
+{"subject": "X. ferrugineus", "predicate": "has", "object": "a very low titer of free ecdysteroids"}
+{"subject": "Oncopeltus faasciatus", "predicate": "involves", "object": "both juvenile hormone and ecdysone"}
+{"subject": "Aedes", "predicate": "has", "object": "a positive correlation between oocyte production and ecdysteroid levels"}
+{"subject": "R. prolixus", "predicate": "can be inhibited by", "object": "ecdysone and reestablished by the application of a juvenile hormone analogue"}
+{"subject": "Drosophila", "predicate": "has", "object": "synthesis"}
+{"subject": "houseflies", "predicate": "has", "object": "vitellogenesis curtailed after the application of ecdysone"}
+{"subject": "beetles", "predicate": "has", "object": "vitellogenesis curtailed after the application of ecdysone"}
+{"subject": "Oncopeltus faasciatus", "predicate": "seems to be ecdysteroid-mediated, while uptake and processing appear to be under juvenile hormone control", "object": null}
+{"subject": "X. ferrugineus", "predicate": "has", "object": "a very low titer of free ecdysteroids"}
+{"subject": "beetles", "predicate": "are reared on", "object": "SSD medium"}
+{"subject": "Xylehorus ferrugineus", "predicate": "requirement of pupation", "object": "sterols other than cholesterol"}
+{"subject": "Locusta migratoria", "predicate": "vitellogenin synthesis in fat body controlled by juvenile hormone", "object": null}
+{"subject": "Xyleborus fer-rugineus (Fabr.)", "predicate": "comparative morphol-ogy and ultrastructure of the corpora allata", "object": "newly emerged and sexually mature female"}
+{"subject": "Hagedorn", "predicate": "H.H.", "object": "and J.G. Kunkel(1979)"}
+{"subject": "mosquitoes", "predicate": "The ovary as a source of n-ecdysone in adult", "object": null}
+{"subject": "Urosophila", "predicate": "Regulation of vitellogenin synthesis by ecdysterone and juvenile hormone.", "object": null}
+{"subject": "mosquitoes", "predicate": "Ovarian ecdysone secretion is controlled by a brain hormone in an adult", "object": null}
+{"subject": "Hagedorn", "predicate": "and J.P. Shapiro and K. Hanaoka(1979)"}
+{"subject": "mosquitoes", "predicate": "n-ecdysone", "object": null}
+{"subject": "Urosophila", "predicate": "Regulation of vitellogenin synthesis by ecdysterone and juvenile hormone.", "object": null}
+{"subject": "greater wax moth", "predicate": "Kcdysteroids in the ovary and the egg", "object": null}
+{"subject": "Hyaiphora cpcropia", "predicate": "Orgenesis", "object": null}
+{"subject": "L.eucophaeu maderae", "predicate": "Ovarian maturation", "object": "and juvenile hormone regulation by"}
+{"subject": "juvenile hormone", "predicate": "regulation of ovarian maturation in L.eucophaeu maderae.", "object": null}
+{"subject": "ecdysterone", "predicate": "Regulation of vitellogenin synthesis in Urosophila by ecdysterone and juvenile hormone.", "object": null}
+{"subject": "Schistocerca americunu gregaria", "predicate": "was fed on juvenile hormone synthesis and o6cyte growth", "object": null}
+{"subject": "Glossina", "predicate": "had reproductive physiology studied by Tobe S.S. and P.A. Langley", "object": "Tobe. S.S., and P.A. Langley (1978)"}
+{"subject": "House fly", "predicate": "experienced delayed vitellogenesis due to larval food deficiency", "object": "H.H. 'I'repte (1980)"}
+{"subject": "E. nr. fornicatus", "predicate": "captured significantly more of", "object": "lure combination"}
+{"subject": "individual lures", "predicate": "captured less than", "object": "lure combination"}
+{"subject": "combination lure", "predicate": "had a field life of", "object": "12 weeks"}
+{"subject": "single lures", "predicate": "had longevity ranging from", "object": "9 to 12 weeks"}
+{"subject": "α-copaene-enriched oil", "predicate": "suggested additional attractants might be", "object": "terpenoids"}
+{"subject": "quercivorol lure", "predicate": "contained", "object": "88% trans- and 9% cis-p-menth-2-en-1-ol"}
+{"subject": "Florida E. nr. fornicatus", "predicate": "is attracted to", "object": "-α-copaene"}
+{"subject": "Florida", "predicate": "is a location where", "object": "E. nr. fornicatus exists"}
+{"subject": "ambrosia beetles", "predicate": "are among the most frequently inter-cepted non-native insects at ports of entry in the USA", "object": ""}
+{"subject": "ambrosia beetles", "predicate": "have become serious pests in forests, orchards, and nursery ornamentals", "object": ""}
+{"subject": "native ambrosia beetles", "predicate": "rarely cause injury to healthy trees", "object": ""}
+{"subject": "ambrosia beetles", "predicate": "prefer to colonize stressed or dying trees that emit ethanol", "object": ""}
+{"subject": "females of ambrosia beetles", "predicate": "inoculate the gallery with conidia of their symbiotic fungi", "object": "conidia of their symbiotic fungi"}
+{"subject": "galleries", "predicate": "serving as the sole food source for both larvae and adults", "object": "fungi growing in the galleries"}
+{"subject": "ambrosia beetles", "predicate": "play an important role in maintaining overall forest health", "object": ""}
+{"subject": "habitat", "predicate": "in which ambrosia beetles play an important role", "object": "forests"}
+{"subject": "Xyleborus glabratus", "predicate": "functions as a primary colonizer", "object": "attacking apparently healthy trees"}
+{"subject": "Raffaelea lauricola", "predicate": "is the causal agent of laurel wilt", "object": ""}
+{"subject": "Xyleborus glabratus", "predicate": "has an unusual host restriction and attack pattern", "object": "for ambrosia beetles"}
+{"subject": "USA", "predicate": "is the location where Xyleborus glabratus was first detected in", "object": "2002"}
+{"subject": "Xyleborus glabratus", "predicate": "interacts with new naïve hosts", "object": "in unpredictable ways"}
+{"subject": "Lauraceae", "predicate": "is the host of Xyleborus glabratus", "object": ""}
+{"subject": "Xyleborus glabratus", "predicate": "colonizes dying trees", "object": "facilitating wood biodegradation"}
+{"subject": "R. lauricola", "predicate": "triggers a defensive response which results in formation of tyloses", "object": ""}
+{"subject": "tyloses", "predicate": "", "object": "formation"}
+{"subject": "tyloses", "predicate": "compromised water transport", "object": ""}
+{"subject": "tyloses", "predicate": "", "object": "tree death"}
+{"subject": "Persea spp.", "predicate": "", "object": "millions of native bay trees killed"}
+{"subject": "Persea americana Mill.", "predicate": "", "object": "44,000 avocado trees succumbed"}
+{"subject": "Florida", "predicate": "", "object": "44,000 avocado trees succumbed"}
+{"subject": "Euwallacea shot hole borers", "predicate": "morphologically indistinguishable from the Asian Euwallacea fornicatus Eichhoff were detected in California and Florida", "object": ""}
+{"subject": "Euwallacea fornicatus Eichhoff", "predicate": "", "object": "Euwallacea shot hole borers"}
+{"subject": "California", "predicate": "", "object": "Euwallacea shot hole borers detected"}
+{"subject": "Florida", "predicate": "", "object": "Euwallacea shot hole borers detected"}
+{"subject": "Israel", "predicate": "", "object": "Euwallacea shot hole borers detections followed by"}
+{"subject": "Australia", "predicate": "", "object": "Euwallacea shot hole borers detections followed by"}
+{"subject": "Mexico", "predicate": "", "object": "Euwallacea shot hole borers detections followed by"}
+{"subject": "Fusarium spp.", "predicate": "fungi", "object": ""}
+{"subject": "Hypocreales", "predicate": "", "object": "Fusarium spp."}
+{"subject": "E. nr. fornicatus", "predicate": "attack living hosts and vector pathogenic fungal symbionts", "object": "native forests"}
+{"subject": "E. nr. fornicatus", "predicate": "encompassing", "object": "at least 60 phylogenetically diverse species"}
+{"subject": "California live oak (Quercus agrifolia Nee, Fagaceae)", "predicate": "hosted by PSHB and KSHB", "object": ""}
+{"subject": "Castorbean (Ricinus communis L., Euphorbaceae)", "predicate": "hosted by PSHB and KSHB", "object": ""}
+{"subject": "Red willow (Salix laevigata Bebb, Salicaceae)", "predicate": "hosted by PSHB and KSHB", "object": ""}
+{"subject": "Box elder (Acer negundo L., Sap-indaceae)", "predicate": "hosted by PSHB and KSHB", "object": ""}
+{"subject": "Fusarium dieback", "predicate": "faces a new threat", "object": "the state’s avocado industry"}
+{"subject": "avocado groves of Miami-Dade County, FL", "predicate": "were found in", "object": "increasing numbers of E . nr. fornicatus"}
+{"subject": "E . nr. fornicatus", "predicate": "were found in", "object": "commercial avocado groves of Miami-Dade County, FL"}
+{"subject": "E. nr. fornicatus", "predicate": "does not appear to utilize long-range attractive pheromones"}
+{"subject": "E. nr. fornicatus females", "predicate": "should facilitate development of effective detection systems"}
+{"subject": "E. nr. fornicatus", "predicate": "utilize long-range attractive pheromones, as flightless males typically mate with their siblings (consanguineous polygyny)"}
+{"subject": "Platypus quercivorus Murayama", "predicate": "is the source of quercivorol [(1S, 4R)-p-menth-2-en-1-ol]"}
+{"subject": "E. nr. fornicatus females", "predicate": "leave the brood gallery"}
+{"subject": "flightless males", "predicate": "typically mate with their siblings (consanguineous polygyny)"}
+{"subject": "E. nr. fornicatus", "predicate": "are susceptible to detection systems that utilize quercivorol [(1S, 4R)-p-menth-2-en-1-ol]"}
+{"subject": "E. nr. fornicatus", "predicate": "has limited efficacy and deterrence of new attacks"}
+{"subject": "topical insecticides", "predicate": "are unlikely to provide effective management of Euwallacea spp. pests"}
+{"subject": "commercial lures", "predicate": "will be referred to as", "object": "quercivorol lures"}
+{"subject": "lure contents", "predicate": "will address", "object": "diastereomers of p-menth-2-en-1-ol"}
+{"subject": "E. nr. fornicatus", "predicate": "differed in population levels", "object": "sites"}
+{"subject": "quer-civorol and α-copaene lures", "predicate": "(1) determine their detection efficacy and field longevity", "object": "deployed separately and in tandem"}
+{"subject": "field captures", "predicate": "and (2) quantify lure emissions over time to", "object": "relate those data"}
+{"subject": "quercivorol formulation", "predicate": "modified from a high-dose bubble lure to", "object": "a low-dose mini-bubble"}
+{"subject": "field performance", "predicate": "and (3) analyze the lure constituents, potentially providing insight into additional attractive kairomones", "object": ""}
+{"subject": "E. nr. fornicatus", "predicate": "targeted by", "object": "sticky panel traps"}
+{"subject": "E. nr. fornicatus", "predicate": "captured using", "object": "Lindgren funnel traps"}
+{"subject": "Synergy Semiochemicals Corp.", "predicate": "provided", "object": "plastic bubble lures"}
+{"subject": "Burnaby, BC, Canada", "predicate": "located in", "object": "plastic bubble lures manufacturer"}
+{"subject": "α-copaene oil", "predicate": "used as", "object": "high-dose quercivorol treatment"}
+{"subject": "quercivorol", "predicate": "used as", "object": "treatment in high-dose and low-dose formulations"}
+{"subject": "Lindgren funnel traps", "predicate": "compared to", "object": "sticky panel traps"}
+{"subject": "Kendra et al.", "predicate": "cited by", "object": "previous field tests targeting E. nr. fornicatus"}
+{"subject": "in-flight ambrosia beetles", "predicate": "captured using", "object": "sticky panel traps"}
+{"subject": "E. nr. fornicatus", "predicate": "had a prior history of damaging populations", "object": null}
+{"subject": "six different avocado cultivars", "predicate": "had", "object": "a mixture"}
+{"subject": "‘Donnie’ trees", "predicate": "were spaced a minimum of 12 m apart within a replicate", "object": null}
+{"subject": "replicate blocks", "predicate": "were spaced 15 m apart within", "object": "within replicate"}
+{"subject": "the standard quercivorol lures", "predicate": "has been estimated to be < 3 m effective range", "object": "effective range"}
+{"subject": "E. nr. fornicatus", "predicate": "was free of laurel wilt", "object": null}
+{"subject": "the grove", "predicate": "had a prior history of damaging populations", "object": "of E. nr. fornicatus"}
+{"subject": "the grove", "predicate": "practiced better sanitation", "object": "removal of trees symptomatic for laurel wilt"}
+{"subject": "α-copaene lure", "predicate": "included in the treatments", "object": "combination of the two lures"}
+{"subject": "quercivorol lure", "predicate": "included in the treatments", "object": "combination of the two lures"}
+{"subject": "ambrosia beetles", "predicate": "used as organisms for previous field trials", "object": null}
+{"subject": "trees", "predicate": "were symptomatic for laurel wilt", "object": "removal by grove manager"}
+{"subject": "grove", "predicate": "was the site for tests 2-4", "object": "May 16 to June 27, 2017"}
+{"subject": "site", "predicate": "was comparable in trap spacing to test 1", "object": "test 3"}
+{"subject": "canopy", "predicate": "provided shade for traps", "object": null}
+{"subject": "branches", "predicate": "were the height at which traps were hung", "object": "height of 6 weeks"}
+{"subject": "treatments", "predicate": "were arranged in five linear replicates", "object": "randomized complete block design"}
+{"subject": "volatiles", "predicate": "were collected in", "object": "traps containing super-Q adsorbant"}
+{"subject": "lures", "predicate": "were placed in glass cylinders", "object": "10 cm diameter x 44 cm length"}
+{"subject": "air", "predicate": "was maintained at a flow rate of", "object": "1 L per min"}
+{"subject": "methylene chloride", "predicate": "was used to elute volatiles with", "object": "200 μL"}
+{"subject": "hexadecane", "predicate": "was added as an internal standard to make a final solution of", "object": "2.5 μg/μL sample"}
+{"subject": "lures", "predicate": "were rotated sequentially among field positions", "object": "comparable to the procedure"}
+{"subject": "α-copaene", "predicate": "matched to", "object": "α-copaene"}
+{"subject": "β-elemene", "predicate": "matched to", "object": "β-elemene"}
+{"subject": "β-caryophyllene", "predicate": "matched to", "object": "β-caryophyllene"}
+{"subject": "α-humulene", "predicate": "matched to", "object": "α-humulene"}
+{"subject": "alloaromadendrene", "predicate": "matched to", "object": "alloaromadendrene"}
+{"subject": "quercivorol", "predicate": "lured with", "object": "trap captures"}
+{"subject": "α-copaene", "predicate": "lured with", "object": "trap captures"}
+{"subject": "combinations of lures", "predicate": "compared to", "object": "summed trap captures"}
+{"subject": "quercivorol", "predicate": "captured more than", "object": "α-copaene"}
+{"subject": "trap captures", "predicate": "analyzed with", "object": "ANOVA analysis"}
+{"subject": "Euwallacea nr. fornicatus", "predicate": "was captured in", "object": "three 12-week field tests"}
+{"subject": "field test 1 (September 8–December 1, 2016)", "predicate": "consisted of lure treatments consisting of", "object": "quercivorol, α-copaene, and a combination of the two"}
+{"subject": "field test 2 (October 20, 2016–January 12, 2017)", "predicate": "consisted of lure treatments consisting of", "object": "α-copaene, and a combination of the two"}
+{"subject": "field test 3 (February 17–May 12, 2017)", "predicate": "consisted of lure treatments consisting of", "object": "a combination of quercivorol and α-copaene"}
+{"subject": "Miami-Dade County, Florida, USA", "predicate": "was the location where", "object": "the field tests were conducted"}
+{"subject": "Euwallacea nr. fornicatus", "predicate": "was found in", "object": "an area with unknown characteristics (habitat)"}
+{"subject": "E. nr. fornicatus", "predicate": "populations observed in field tests 3 and 4 were much greater than any documented previously", "object": "Florida avocado groves"}
+{"subject": "field site", "predicate": "depending on the field site (Table 1)", "object": "varies"}
+{"subject": "healthy well-maintained grove", "predicate": "non-target captures were relatively low, comprising 15.6% of the total captures", "object": "Table 1"}
+{"subject": "Ambrosiodmus devexulus", "predicate": "was captured more frequently than any other non-target scolytine", "object": ""}
+{"subject": "non-target bark beetle", "predicate": "captures were variable, depending on the field site (Table 1)", "object": ""}
+{"subject": "Florida avocado groves", "predicate": "were not previously known to support populations of E. nr. fornicatus", "object": ""}
+{"subject": "E. nr. fornicatus", "predicate": "sustained high captures for the duration of the test", "object": "low-dose lure"}
+{"subject": "field tests", "predicate": "indicated three flight peaks during the 12-week test", "object": ""}
+{"subject": "quercivorol mini-bubble", "predicate": "captures were less than those of the combination", "object": ""}
+{"subject": "E. nr. fornicatus", "predicate": "was", "object": "the dominant species"}
+{"subject": "59.2% of the total captures", "predicate": "were", "object": "non-target beetles"}
+{"subject": "A. devexulus", "predicate": "varied among treatments", "object": "captures"}
+{"subject": "Xyleborinus saxesenii (Ratzeburg)", "predicate": "was", "object": "included in species caught in significant numbers"}
+{"subject": "Xyleborus affinis Eichhoff", "predicate": "was", "object": "included in species caught in significant numbers"}
+{"subject": "Xyleborus bispinatus Eichhoff", "predicate": "was", "object": "included in species caught in significant numbers"}
+{"subject": "Xyleborus volvulus (Fabricius)", "predicate": "was", "object": "included in species caught in significant numbers"}
+{"subject": "Xylosandrus crassiusculus (Motschulsky)", "predicate": "was", "object": "included in species caught in significant numbers"}
+{"subject": "α-copaene", "predicate": "captures obtained in traps", "object": "highest"}
+{"subject": "X. glabratus", "predicate": "captured in treatments containing α-copaene", "object": "Two"}
+{"subject": "Euplatypus parallelus (Fabricius)", "predicate": "encountered", "object": "a species not encountered at the other two sites"}
+{"subject": "scolytines", "predicate": "comprised a very low percentage of the captures", "object": "non-target, 1.8%"}
+{"subject": "E. nr. fornicatus", "predicate": "present", "object": "due to the extremely large numbers"}
+{"subject": "dead and moribund trees", "predicate": "lacking which could serve as potential breeding substrates", "object": "for secondary colonizers"}
+{"subject": "A. devexulus", "predicate": "captured with traps that included α-copaene", "object": "More, and this attractant also resulted in detection of a single X. glabratus."}
+{"subject": "Theoborus ricini (Eggers)", "predicate": "caught with the quercivorol and combination treatments", "object": "than with the control treatment"}
+{"subject": "quercivorol", "predicate": "and combination treatments used to catch more Theoborus ricini (Eggers) than with the control treatment", "object": "More"}
+{"subject": "oborus ricini", "predicate": "were caught with the quercivorol", "object": "and combination treatments"}
+{"subject": "quercivorol", "predicate": "", "object": ""}
+{"subject": "Eggers", "predicate": "", "object": ""}
+{"subject": "control treatment", "predicate": "", "object": ""}
+{"subject": "quercivorol", "predicate": "", "object": ""}
+{"subject": "α-copaene lure", "predicate": "decreased rapidly for the first 4 weeks after field exposure", "object": ""}
+{"subject": "Euwallacea nr. fornica-tus", "predicate": "were captured in a 6-week field test", "object": ""}
+{"subject": "Miami-Dade County, Florida, USA", "predicate": "", "object": ""}
+{"subject": "Scolytinae and Platypodinae", "predicate": "are part of the Coleoptera: Curculionidae", "object": ""}
+{"subject": "E. nr. fornicatus", "predicate": "demonstrated attraction", "object": "quercivorol"}
+{"subject": "A. devexulus", "predicate": "captured in higher numbers", "object": "α-copaene"}
+{"subject": "T. ricini", "predicate": "demonstrated attraction", "object": "quercivorol"}
+{"subject": "E. nr. fornicatus", "predicate": "appears to be the case", "object": "avocado cv 'Donnie'"}
+{"subject": "(−)-α-copaene", "predicate": "plays a dominant role in the host location process", "object": "of dispersing female E. nr. fornicatus"}
+{"subject": "X. glabratus", "predicate": "as with", "object": "(Kendra et al. 2014a, 2016a; Owens et al. 2017)"}
+{"subject": "E. nr. fornicatus", "predicate": "synthesize", "object": "p-menth-2-en-1-ol"}
+{"subject": "P. quercivorus", "predicate": "produce", "object": "(−)-α-copaene"}
+{"subject": "Fusarium spp.", "predicate": "emitted", "object": "p-menth-2-en-1-ol"}
+{"subject": "E. nr. fornicatus", "predicate": "function as a food attractant for", "object": "female E. nr. fornicatus"}
+{"subject": "α-copaene and p-menth-2-en-1-ol", "predicate": "provide a strong signal of", "object": "an appropriate host species and one at the proper stage to support growth of nutritional fungi"}
+{"subject": "X. glabratus", "predicate": "captures in-flight females", "object": "increased by synergistic volatiles from the Raffaelea symbiont and host-based odors"}
+{"subject": "Raffaelea symbiont", "predicate": "volatiles that are synergistic with host-based odors", "object": "to increase captures of in-flight females of X. glabratus"}
+{"subject": "α-copaene", "predicate": "content in the commercial lure oil", "object": ">50%"}
+{"subject": "commercial α-copaene lure oil", "predicate": "enriched in α-copaene", "object": "through fractional distillation (Kendra et al. 2016a)"}
+{"subject": "α-copaene", "predicate": "composition of the commercial lure oil", "object": "(−)-enantiomer, comprising 99.9%"}
+{"subject": "α-copaene", "predicate": "relationship with other terpenoid constituents in the oil", "object": "11 other terpenoids, including β-caryophyllene (22.5%), δ-cadinene (9.9%), α-humulene (4.2%), and α-cubebene (2.7%)"}
+{"subject": "(−)-α-copaene", "predicate": "content in the commercial lure oil", "object": "22.5%"}
+{"subject": "β-caryophyllene", "predicate": "abundance in the commercial lure oil", "object": "22.5%"}
+{"subject": "δ-cadinene", "predicate": "abundance in the commercial lure oil", "object": "9.9%"}
+{"subject": "α-humulene", "predicate": "abundance in the commercial lure oil", "object": "4.2%"}
+{"subject": "α-cubebene", "predicate": "abundance in the commercial lure oil", "object": "2.7%"}
+{"subject": "X. glabratus", "predicate": "hosted by Raffaelea symbiont", "object": "detected by female"}
+{"subject": "P. quer-civorus", "predicate": "has an aggregation pheromone", "object": "(1S, 4R)-p-menth-2-en-1-ol"}
+{"subject": "Euwallacea spp.", "predicate": "may be attracted to", "object": "(1S, 4R)-p-menth-2-en-1-ol"}
+{"subject": "P. quercivorus", "predicate": "may not be attracted to", "object": "(1S, 4R)-p-menth-2-en-1-ol"}
+{"subject": "E. nr. fornicatus", "predicate": "was attracted to", "object": "a low-dose mini-bubble lure"}
+{"subject": "E . nr. fornicatus", "predicate": "detect", "object": "p-menth-2-en-1-ol"}
+{"subject": "p-menth-2-en-1-ol", "predicate": "be detected at", "object": "very low levels"}
+{"subject": "E . nr. fornicatus", "predicate": "respond to", "object": "electroantenographic analyses of dose-dependent olfactory responses"}
+{"subject": "host-based attractants", "predicate": "become repellent if present at", "object": "high concentrations"}
+{"subject": "PSHB", "predicate": "be affected by", "object": "higher doses of p-menth-2-en-1-ol"}
+{"subject": "KSHB", "predicate": "be affected by", "object": "higher doses of p-menth-2-en-1-ol"}
+{"subject": "quercivorol lures", "predicate": "lose efficacy after", "object": "8–9 weeks"}
+{"subject": "temperature", "predicate": "contribute to", "object": "loss of efficacy"}
+{"subject": "precipitation", "predicate": "contribute to", "object": "loss of efficacy"}
+{"subject": "E . nr. fornicatus", "predicate": "captured", "object": "for the duration of the 12 week test (field test 1)"}
+{"subject": "quercivorol component", "predicate": "contributes to more rapid elution of volatiles", "object": "None"}
+{"subject": "E . nr. fornicatus", "predicate": "decreases captures when combined with quercivorol lures", "object": "species in California"}
+{"subject": "quercivorol component", "predicate": "has a shorter field life", "object": "None"}
+{"subject": "Ethanol", "predicate": "may potentially synergize attraction when added to the two-component lure", "object": "E . nr. fornicatus in Florida"}
+{"subject": "Ethanol", "predicate": "is reported to be an attractant for TSHB in Asia", "object": "species"}
+{"subject": "Florida E . nr. fornicatus", "predicate": "proposed to be attracted by Ethanol", "object": "in Asia"}
+{"subject": "Persea species", "predicate": "infested with E. nr. fornicatus", "object": "several trees"}
+{"subject": "E. nr. fornicatus", "predicate": "infestations revealed in several trees", "object": ""}
+{"subject": "Lysiloma latisiliquum", "predicate": "new host species discovered", "object": "with E. nr. fornicatus"}
+{"subject": "Albizia lebbeck (L.) Bentham (Fabaceae)", "predicate": "new host species discovered", "object": "with E. nr. fornicatus"}
+{"subject": "Florida", "predicate": "affected by beetle's host range and risk posed to flora", "object": ""}
+{"subject": "X. glabratus", "predicate": "spread pathway progressed from north to south via native trees", "object": "several Persea species"}
+{"subject": "Persea species", "predicate": "infested with X. glabratus", "object": "native trees"}
+{"subject": "Florida avocado production area", "predicate": "affected by laurel wilt", "object": ""}
+{"subject": "Miami-Dade County", "predicate": "home to large breeding populations of E. nr. fornicatus", "object": "avocado monocultures"}
+{"subject": "E. nr. fornicatus", "predicate": "likely to spread in opposite direction", "object": ""}
+{"subject": "Avocado", "predicate": "common backyard fruit tree throughout state", "object": ""}
+{"subject": "Florida", "predicate": "affected by avocado's common presence as a backyard fruit tree", "object": ""}
+{"subject": "avocado", "predicate": "is a common backyard fruit tree throughout the state", "object": "..."}
+{"subject": "E. nr. fornicatus", "predicate": "are being surveyed for", "object": "..."}
+{"subject": "SAGARPA", "predicate": "is using the two-component lure in survey programs for", "object": "..."}
+{"subject": "X. glabratus", "predicate": "are being surveyed for", "object": "..."}
+{"subject": "Euwallacea spp.", "predicate": "engage in flight", "object": "..."}
+{"subject": "Females of Euwallacea spp.", "predicate": "are good candidates for population suppression through mass trapping", "object": "..."}
+{"subject": "managed groves and urban environments", "predicate": "are particularly suitable for", "object": "..."}
+{"subject": "Florida", "predicate": "is the source of adventive ambrosia beetles", "object": "..."}
+{"subject": "neighboring regions", "predicate": "may receive invasions of ambrosia beetles from", "object": "..."}
+{"subject": "global commerce (anthropogenic transport of infested material)", "predicate": "may provide a pathway for spread of adventive ambrosia beetles", "object": "..."}
+{"subject": "PSHB", "predicate": "can be mass trapped by", "object": "the single bait deployed in sticky traps"}
+{"subject": "Florida", "predicate": "is the location where E. nr. fornicatus is found", "object": null}
+{"subject": "E. nr. fornicatus", "predicate": "can be attracted to", "object": "the two-component lure"}
+{"subject": "E. nr. fornicatus", "predicate": "can be repelled from", "object": "verbenone"}
+{"subject": "beetles", "predicate": "are pushed away from", "object": "susceptible hosts"}
+{"subject": "Florida E. nr. fornicatus", "predicate": "attracts", "object": "p-menth-2-en-1-ol"}
+{"subject": "bark and ambrosia beetles", "predicate": "attracts low numbers of", "object": "commercially available α-copaene and quercivorol lures"}
+{"subject": "Florida E. nr. fornicatus", "predicate": "may be attractive to", "object": "(−)-α-copaene"}
+{"subject": "Florida E. nr. fornicatus", "predicate": "is part of a cryptic species complex", "object": "other members of this species"}
+{"subject": "commercially available α-copaene and quercivorol lures", "predicate": "has field longevity of 12 weeks", "object": null}
+{"subject": "E. nr. fornicatus", "predicate": "is a pest", "object": "Florida"}
+{"subject": "species", "predicate": "is attractive to", "object": "other members"}
+{"subject": "specimen", "predicate": "constitute a sig-nificant improvement", "object": "for detection of multiple invasive pests"}
+{"subject": "locations", "predicate": "are grateful to", "object": "Carlos de la Torre, Arnoldo Paniagua, and John Barkett"}
+{"subject": "habitats", "predicate": "provided generous access to", "object": "their groves"}
+{"subject": "organisms", "predicate": "assisted in coordinating field operations", "object": "Louis Dessaint (Brooks Tropicals and Florida Avocado Administrative Committee)"}
+{"subject": "ecological relationships", "predicate": "reviewed an earlier version of this manuscript", "object": "journal editor/referees"}
+{"subject": "species", "predicate": "conceived, designed, and conducted the research", "object": "PK"}
+{"subject": "organisms", "predicate": "contributed materials", "object": "PK, NT, and DC"}
+{"subject": "data", "predicate": "analyzed", "object": "PK, DO, NT, ES, and TN"}
+{"subject": "manuscript", "predicate": "wrote", "object": "DO, PK, and NT"}
+{"subject": "attributed characteristics (size)", "predicate": "reviewed an earlier version of this manuscript", "object": "journal editor/referees"}
+{"subject": "Xyleborus glabratus", "predicate": "lures", "object": "avocado, lychee, and essential oil"}
+{"subject": "Xyleborus glabratus", "predicate": "to", "object": "beetle"}
+{"subject": "Xyleborus glabratus", "predicate": "attraction", "object": "of"}
+{"subject": "Redbay ambrosia beetle", "predicate": "disease (a lethal threat)", "object": "from American Lauraceae: a uncertain future"}
+{"subject": "American Lauraceae", "predicate": "threats", "object": "from redbay ambrosia beetle and laurel wilt disease"}
+{"subject": "Laurel wilt disease", "predicate": "a lethal threat", "object": "to American Lauraceae: a uncertain future"}
+{"subject": "Redbay ambrosia beetle", "predicate": "boring preferences", "object": "of"}
+{"subject": "Xyleborus glabratus", "predicate": "relative attraction and boring preferences", "object": "of redbay ambrosia beetle"}
+{"subject": "Xyleborus glabratus", "predicate": "Coleoptera", "object": "Curculionidae: Scolytinae"}
+{"subject": "Xyleborus glabratus", "predicate": "Scolytinae", "object": ""}
+{"subject": "Xyleborus glabratus", "predicate": "", "object": "Coleoptera: Curculionidae: Scolytinae"}
+{"subject": "Xyleborus glabratus", "predicate": "Curculionidae", "object": "Scolytinae"}
+{"subject": "Xyleborus glabratus", "predicate": "", "object": "Coleoptera"}
+{"subject": "Xyleborus glabratus", "predicate": "Redbay ambrosia beetle", "object": ""}
+{"subject": "Xyleborus glabratus", "predicate": "", "object": "Redbay ambrosia beetle"}
+{"subject": "Cubeb oil", "predicate": "most effective attractant", "object": "Xyleborus glabratus detection"}
+{"subject": "Cubeb oil", "predicate": "effective lure", "object": "Xyleborus glabratus attraction"}
+{"subject": "Cubeb oil", "predicate": "", "object": "Terpenoid emissions, trapping efficacy, longevity for Xyleborus glabratus attraction"}
+{"subject": "Forest ecosystem", "predicate": "environment", "object": "Xyleborus glabratus community"}
+{"subject": "Agricultural ecosystem", "predicate": "environment", "object": "Xyleborus glabratus community"}
+{"subject": "Laurel wilt disease", "predicate": "disease affecting", "object": "Xyleborus glabratus community"}
+{"subject": "Minneapolis, MN", "predicate": "location of annual meeting", "object": ""}
+{"subject": "USA", "predicate": "location", "object": "Minneapolis, MN"}
+{"subject": "Fusarium-Euwallacea ambrosia beetle", "predicate": "mutualism", "object": "beetle"}
+{"subject": "Xyleborus glabratus", "predicate": "host-seeking behavior", "object": "insect"}
+{"subject": "Fusarium-Euwallacea ambrosia beetle", "predicate": "host shift", "object": "locations"}
+{"subject": "Xyleborina", "predicate": "occurring north of Mexico", "object": null}
+{"subject": "Xyleborina", "predicate": "with an illustrated key", "object": "Ann Entomol Soc Amer 99:1034–1056"}
+{"subject": "Rabaglia R, Duerr D, Acciavatti R, Ragenovich I", "predicate": "Early detection and rapid response for non-native bark and ambrosia beetles", "object": "US Department of Agriculture, Forest Service, Forest Health Protection, Washington, DC"}
+{"subject": "SIAP", "predicate": "Cierre de la producción agrícola por cultivo", "object": "http://infosiap.siap.gob.mx/aagricola_siap_gb/ientidad/index.jsp"}
+{"subject": "Rabaglia R, Duerr D, Acciavatti R, Ragenovich I", "predicate": "US Department of Agriculture, Forest Service, Forest Health Protection, Washington, DC", "object": null}
+{"subject": "Xyleborina", "predicate": "Coleoptera: Curculionidae: Scolytinae", "object": null}
+{"subject": "Stouthamer R, Rugman-Jones P, Thu PQ, Eskalen A, Thibault T, Hulcr J, Wang L, Jordal BH, Chen C, Cooperband M, Lin C, Kamata N, Lu S, Masuya H, Mendel Z, Rabaglia R, Sanguansub S, Shih H, Sittichaya W, Zong S", "predicate": "Tracing the origin of a cryptic invader: phylogeography of the Euwallacea fornicatus", "object": null}
+{"subject": "Euwallacea fornicatus", "predicate": "Coleoptera", "object": null}
