@@ -1,13 +1,17 @@
 from neo4j import GraphDatabase
 import json
 
-NEO4J_URI = 
-NEO4J_USER = 
-NEO4J_PASSWORD =   
+NEO4J_URI = ''
+NEO4J_USER = ''
+NEO4J_PASSWORD = ''
 
-TRIPLES_FILE = "triples.jsonl"
+TRIPLES_FILE = "filtered_triples.json"
 
-driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
+driver = GraphDatabase.driver(
+    NEO4J_URI,
+    auth=(NEO4J_USER, NEO4J_PASSWORD),
+    max_connection_lifetime=200
+    )
 
 def create_constraints(session):
     session.run("""
@@ -29,11 +33,11 @@ def load_triples():
 
         print("Loading triples from JSONL...")
         with open(TRIPLES_FILE, "r", encoding="utf-8") as f:
-            for line in f:
-                t = json.loads(line)
+            triples = json.load(f)   # load the whole array at once
+            for t in triples:
                 subj = t.get("subject")
                 pred = t.get("predicate")
-                obj = t.get("object")
+                obj  = t.get("object")
                 if subj and pred and obj:
                     insert_triple(session, subj, pred, obj)
 
